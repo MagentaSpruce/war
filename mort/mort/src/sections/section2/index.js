@@ -2,7 +2,8 @@ const Section2 = () => {
     return(
         <div className="bg-black text-white
         xxs:h-[130vh] 
-        xs:h-[140vh]">
+        xs:h-[140vh]
+        sm:text-lg sm:h-[120vh]">
 <h1 className="text-center  p-2 font-economica">Tristan Nettles was an international dark web drug dealer who worked as a high school science teacher at Panyadee International School on Koh Samui from 2017 until the summer of 2020.</h1>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644627619/panyadee-the-British-International-Schbool-of-Samui_rewegm.jpg" alt="Panyadee International School, Koh Samui, Thailand" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2"

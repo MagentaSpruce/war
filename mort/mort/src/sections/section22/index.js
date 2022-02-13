@@ -2,7 +2,8 @@ const Section22 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[115vh]
-        xs:h-[120vh]">
+        xs:h-[120vh]
+        sm:text-lg sm:h-[110vh]">
 
 <h3 className="text-center p-2 font-economica">The Koh Samui Police department was contacted and provided evidence as well. The same police department that was found to be raping prisoners a few months later in the same jail where Ashley was held.</h3>
 

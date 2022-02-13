@@ -2,7 +2,8 @@ const Section23 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[150vh]
-        xs:h-[165vh]">
+        xs:h-[165vh]
+        sm:text-lg sm:h-[145vh]">
 
 <h3 className="text-center p-2 font-economica">A Thai man named Mr. Big owns Panyadee as well as many hotels on the island and he has connections with the Thai Police there. Thailand is a country obsessed with 'saving face.'</h3>
 

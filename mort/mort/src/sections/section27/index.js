@@ -2,7 +2,8 @@ const Section27 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[105vh]
-        xs:h-[120vh]">
+        xs:h-[120vh]
+        sm:text-lg sm:h-[105vh]">
 
 <h3 className="text-center p-2">Other prisoners at the same prison however have been receiving letters from years, but for Ashley to receive letters in the mail has been labeled a security threat as if she was working with ISIS.</h3>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644711384/proof_ccbxbh.png" alt="Another person confirming that letters are being sent to the same Ashley was moved to" srcset="" 

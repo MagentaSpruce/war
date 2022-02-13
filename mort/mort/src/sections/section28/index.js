@@ -2,7 +2,8 @@ const Section28 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[135vh]
-        xs:h-[145vh]">
+        xs:h-[145vh]
+        sm:text-lg sm:h-[125vh]">
 
 <div className="flex flex-col">
 <h3 className="text-center p-2">Ashley is nothing more than a convienent victim for the Thai authorities, just like the two poor Burmese men from Koh Tao.</h3>

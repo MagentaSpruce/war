@@ -1,6 +1,8 @@
 const Section21 = () => {
     return(
-        <div className="xxs:h-[155vh] bg-black text-white">
+        <div className=" bg-black text-white
+        xxs:h-[155vh]
+        sm:text-lg sm:h-[145vh]">
 
 
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644702180/Liam_nheugq.jpg" alt="CEO of Panyadee Liam Capone being given evidence of Sergeys involvement in the drug ring" srcset="" 

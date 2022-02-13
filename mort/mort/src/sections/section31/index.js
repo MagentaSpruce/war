@@ -2,7 +2,8 @@ const Section31 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[145vh]
-        xs:h-[160vh]">
+        xs:h-[160vh]
+        sm:text-lg sm:h-[135vh]">
 
 <h3 className="text-center p-2">There is not much time left however. Her appeal will be decided in only three or four months time, maybe less, unless we can get an extension filed. The Thai system is notoriously corrupt and justice does not come free in the land of smiles.</h3>
 

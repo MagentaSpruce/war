@@ -2,7 +2,8 @@ const Section3 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[125vh]
-        xs:h-[140vh]">
+        xs:h-[140vh]
+        sm:text-lg sm:h-[120vh]">
 <h1 className="text-center  p-2 font-economica">Tristan was involved in a home invasion in Escatva, Mississippi in 2009 while being UA from the Marines. He was selling large amounts of narcotics out of a house there. He was subpoenaed and flown by the Mississippi State Attorney from Atlanta to testify at the trial.</h1>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644629238/weedTree_w9cdel.jpg" alt="Tristan Purchasing Marijuana from a Local Weed Farmer" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2 "

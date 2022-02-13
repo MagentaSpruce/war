@@ -1,6 +1,8 @@
 const Section16 = () => {
     return(
-        <div className="xxs:h-[140vh] bg-black text-white">
+        <div className=" bg-black text-white
+        xxs:h-[140vh]
+        sm:text-lg sm:h-[135vh]">
 <h3 className="text-center p-2 font-economica">Ashley's lawyers all proved to be scoundrels. Mike Greene out of BKK promised to fly to Koh Samui directly to get Ashley out on bail after he was paid 95,000 Baht. He was paid but never got on a plane. </h3>
 <h3 className="text-center p-2 font-economica">He then forged a document which he claimed to be from the provencial court demanding a 2 million baht bail be delivered in cash, plus his fee.</h3>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644699370/fakeBail_rzpem7.jpg" alt="Forged bail request" srcset="" 

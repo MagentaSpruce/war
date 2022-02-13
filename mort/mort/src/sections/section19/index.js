@@ -2,7 +2,8 @@ const Section19 = () => {
     return(
         <div className="bg-black text-white
         xxs:h-[170vh] 
-        xs:h-[185vh]">
+        xs:h-[185vh]
+        sm:text-lg sm:h-[170vh]">
 <h3 className="text-center p-2 font-economica">Neither of the lawyer's bothered to read her arrest report however which clearly stated that bail was not recommended at that time. </h3>
 
 <h3 className="text-center p-2 font-economica">Due to their incompetance and dishonesty, Ashley's bail was denied and the chance for any future bail ruined after Mike Greene's Koh Samui associate Teeranan Chuaichai and the other lawyer K Aot tried repeatedly to ram it through anyway. </h3>

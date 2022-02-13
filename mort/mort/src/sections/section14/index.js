@@ -1,6 +1,8 @@
 const Section14 = () => {
     return(
-        <div className="xxs:h-[100vh] bg-black text-white">
+        <div className="bg-black text-white
+        xxs:h-[100vh] 
+        sm:text-lg sm:h-[85vh]">
 <h3 className="text-center p-2 font-economica">After the drugs were discovered Liam Capone called the Koh Samui Police to accuse Tristan of drug importing.</h3>
 
 <h3 className="text-center p-2 font-economica">Without Ashley's knowledge or consent, Tristan switched to using the biscuit shop to import drugs after the package was discovered in Panyadee. He began shipping packs there in September 2020, less than six weeks before Ashley's arrest. </h3>

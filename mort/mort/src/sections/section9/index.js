@@ -2,7 +2,8 @@ const Section9 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[145vh]
-        xs:h-[160vh]">
+        xs:h-[160vh]
+        sm:text-lg sm:h-[135vh]">
 <h3 className="text-center p-2 font-economica">Tristan led a secret life. Nobody on the outside knew what he was doing. He never missed work or got into any trouble and his teaching was highly praised. His students had the highest IGCSE test scores in the school's history after his second year there.</h3>
 
 <h3  className="text-center p-2 font-economica">He is a master manipulator.</h3>

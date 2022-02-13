@@ -2,7 +2,8 @@ const Section15 = () => {
     return(
         <div className="bg-black text-white
         xxs:h-[110vh] 
-        xs:h-[115vh]">
+        xs:h-[115vh]
+        sm:text-lg sm:h-[100vh]">
 <h1 className="text-center p-2 font-economica
 ">Dave and Tristan had been friends since 2017. He was one of Tristan's most loyal customers for drugs from the start. Dave is the one who sold Tristan his old business license so that Tristan could start his resteraunt.</h1>
 

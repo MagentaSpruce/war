@@ -2,7 +2,8 @@ const Section10 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[175vh]
-        xs:h-[185vh]">
+        xs:h-[185vh]
+        sm:text-lg sm:h-[160vh]">
 <h3 className="text-center p-2 font-economica">When Tristan met Ashley she was working as a kindgarden teacher at Oonrak International School. She was forced to be let go after another teacher there named Tamarin complained about Ashley's lack of a four year degree. </h3>
 <h3 className="text-center p-2 font-economica">They had both been in competition for the same promotion.</h3>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644687628/kids_yhk2ah.jpg" alt="Ashley teaching kindergarden at Oonrak International School, Koh Samui, Thailand" srcset="" 

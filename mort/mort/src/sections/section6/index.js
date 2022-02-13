@@ -2,7 +2,8 @@ const Section6 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[120vh]
-        xs:h-[130vh]">
+        xs:h-[130vh]
+        sm:text-lg sm:h-[115vh]">
 
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644631286/drugs3-min_dbwmtw.jpg" alt="50 grams of R-Ketamine and 50 grams of S-Ketamine Being Ordered" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2"

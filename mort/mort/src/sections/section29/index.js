@@ -2,7 +2,8 @@ const Section29 = () => {
     return(
         <div className="bg-black text-white font-economica
         xxs:h-[165vh] 
-        xs:h-[185vh] ">
+        xs:h-[185vh] 
+        sm:text-lg sm:h-[150vh]">
 
 <h3 className="text-center p-2">Please, right now before you leave, share this website. Share this story anywhere and everywhere you can. Scream it from the rooftops if you are willing. Ashley only needs one influencer, one celebrity, or government official willing to help take her cause to the world so that this travesty of justice can be undone.</h3>
 

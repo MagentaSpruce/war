@@ -2,7 +2,8 @@ const Section5 = () => {
     return(
         <div className="bg-black text-white
         xxs:h-[180vh]
-        xs:h-[185vh]">
+        xs:h-[185vh]
+        sm:text-lg sm:h-[170vh]">
 <h1 className="text-center  p-2 font-economica">Sergei was paid a commission for every purchase made.</h1>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644630729/sergey2_pgxbpz.jpg" alt="Sergey Requesting Payment" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto border-2"

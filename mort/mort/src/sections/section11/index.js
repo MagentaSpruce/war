@@ -2,7 +2,8 @@ const Section11 = () => {
     return(
         <div className=" bg-black text-white
         xxs:h-[145vh]
-        xs:h-[155vh]">
+        xs:h-[155vh]
+        sm:text-lg sm:h-[140vh]">
 <h1 className="text-center p-2 font-economica">Ashley put her whole heart and soul into that business. It was her entire life. She worked six days per week waking up at 5:15am each day to make sure the shop was opened by 7am.</h1>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644688253/hitb2_vjinrx.jpg" alt="Ashley and Joy at the restaraunt" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2"

@@ -2,7 +2,8 @@ const Section13 = () => {
     return(
         <div className="bg-black text-white pt-4
         xxs:h-[115vh] 
-        xs:h-[125vh]">
+        xs:h-[125vh]
+        sm:text-lg sm:h-[115vh]">
 
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644689907/secrege_fhoglt.jpg" alt="Sergey confirming BTC for drugs" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2"

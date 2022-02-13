@@ -1,6 +1,8 @@
 const Section15b = () => {
     return(
-        <div className="xxs:h-[125vh] bg-black text-white">
+        <div className="bg-black text-white
+        xxs:h-[125vh] 
+        sm:text-lg sm:h-[115vh]">
 
 
 <h3  className="text-center p-2 font-economica"> After seeing the name of Dave, being further hounded by the police sent package man, and with guest behind her waiting, Ashley signed as directed despite the delivery guy knowing she was not a man named Dave. She then placed the package on the ground, unopened, and went back to work as before. </h3>

@@ -2,7 +2,8 @@ const Section7 = () => {
     return(
         <div className="bg-black text-white
         xxs:h-[155vh] 
-        xs:h-[175vh]">
+        xs:h-[175vh]
+        sm:text-lg sm:h-[150vh]">
 <h1 className="text-center  p-2 font-economica">Sergey handled the bitcoin for cash, Tristan handled the bitcoin for drugs. This went on for almost three years.</h1>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644633431/20210326_222708_vdd2av.jpg" alt="Ordering 500 XTC pills and 100 grams of S-Ketamine" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2"
