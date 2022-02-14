@@ -3,7 +3,7 @@ const Section3 = () => {
         <div className=" bg-black text-white
         xxs:h-[125vh]
         xs:h-[140vh]
-        sm:text-lg sm:h-[120vh]
+        sm:text-lg sm:h-[135vh]
         md:text-2xl md:h-[135vh]
         lg:flex lg:p-4 lg:text-xl lg:h-[100vh]">
 <div className="lg:w-[100vw] lg:pt-6 xl:pt-14">
