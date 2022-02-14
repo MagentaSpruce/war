@@ -18,7 +18,7 @@ const Missing = () => {
   className="xxs:w-[90vw]  xxs:mx-auto border-2 
   lg:w-[80vw]
   xl:w-[70vw]
-  2xl:w-[60vw]"
+  2xl:w-[57vw]"
 />
         </div>
 <div className=""><h3 className="text-center p-2 font-economica">Ashley was arrested and charged in Koh Samui, Thailand for a crime that this man and his friends committed.</h3>
