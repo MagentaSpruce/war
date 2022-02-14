@@ -2,7 +2,7 @@ const Section30 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[80vh]
-        xs:h-[90vh]
+        xs:h-[70vh]
         sm:text-lg sm:h-[75vh]
         md:text-2xl md:h-[50vh]
         lg:h-[80vh] ">
@@ -17,7 +17,7 @@ const Section30 = () => {
 <div className="flex flex-col">
 <h3 className="text-center p-2">Please consider becoming a subscribing member to Ashley Capital & DeFi, a crypto consulting and wealth management company that is being started in her name and honor. 95% of all profits made will go to her legal fund.</h3>
 
-<a href="www.ashleydefi.com" className="mx-auto underline-offset-4 underline cursor-pointer xl:mb-4">Ashley Capital & DeFi</a>
+<a href="www.ashleydefi.com" target="_blank" className="mx-auto underline-offset-4 underline cursor-pointer xl:mb-4">Ashley Capital & DeFi</a>
 </div>
 
 <h3 className="text-center p-2">Please, for Ashley, do at least one of these many things to help spread her story and garner support for her cause. </h3>

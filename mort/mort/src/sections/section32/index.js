@@ -2,7 +2,7 @@ const Section32 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[120vh]
-        xs:h-[130vh]
+        xs:h-[115vh]
         sm:text-lg sm:h-[130vh]
         md:text-2xl md:h-[115vh]
         lg:text-lg lg:p-4 lg:h-[200vh]
@@ -32,7 +32,7 @@ const Section32 = () => {
             ">Donate with Ethereum</a>
 </div>
 
-<h1 className="text-center text-5xl text-yellow-500 xxs:pt-5
+<h1 className="text-center text-5xl text-yellow-500 xxs:pt-5 xs:pt-14
 lg:pt-14">FREE ASHLEY</h1>
 </div>
     )

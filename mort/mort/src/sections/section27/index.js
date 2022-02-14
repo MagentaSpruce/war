@@ -2,7 +2,7 @@ const Section27 = () => {
     return(
         <div className=" bg-black text-white font-economica
         xxs:h-[105vh]
-        xs:h-[120vh]
+        xs:h-[100vh]
         sm:text-lg sm:h-[110vh]
         md:text-2xl
         lg:text-xl lg:h-[100vh] lg:flex lg:p-4">
