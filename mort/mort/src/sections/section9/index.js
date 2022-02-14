@@ -3,18 +3,27 @@ const Section9 = () => {
         <div className=" bg-black text-white
         xxs:h-[145vh]
         xs:h-[160vh]
-        sm:text-lg sm:h-[135vh]">
-<h3 className="text-center p-2 font-economica">Tristan led a secret life. Nobody on the outside knew what he was doing. He never missed work or got into any trouble and his teaching was highly praised. His students had the highest IGCSE test scores in the school's history after his second year there.</h3>
+        sm:text-lg sm:h-[135vh]
+        md:text-2xl md:h-[175vh]
+        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
+<div className="xl:pt-10">
+<h3 className="text-center p-2 font-economica
+xl:w-[80%] xl:mx-auto">Tristan led a secret life. Nobody on the outside knew what he was doing. He never missed work or got into any trouble and his teaching was highly praised. His students had the highest IGCSE test scores in the school's history after his second year there.</h3>
 
-<h3  className="text-center p-2 font-economica">He is a master manipulator.</h3>
+<h3  className="text-center p-2 font-economica">He was a master manipulator.</h3>
 
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644686835/lolly_em7ijf.jpg" alt="Some of Tristan's students after making lollipops in class" srcset="" 
-  className="xxs:w-[90vw]  xxs:mx-auto border-2 "
+  className="xxs:w-[90vw]  xxs:mx-auto border-2 
+  lg:w-[40vw]"
 />
+</div>
+<div className="xl:pt-10">
 <h3 className="text-center p-2 font-economica">He was even given a recommendation by the school he imported drugs to for 3 years before he left to attend medical school in Europe. </h3>
 <img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644687077/rec-min_adygl0.jpg" alt="Recommendation letter from Panyadee after three years service." 
-   className="xxs:w-[90vw]   xxs:mx-auto border-2 "
+   className="xxs:w-[90vw]   xxs:mx-auto border-2
+   lg:w-[27vw] "
 />
+</div>
 
 </div>
     )

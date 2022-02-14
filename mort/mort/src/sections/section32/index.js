@@ -3,7 +3,10 @@ const Section32 = () => {
         <div className=" bg-black text-white font-economica
         xxs:h-[120vh]
         xs:h-[130vh]
-        sm:text-lg sm:h-[110vh]">
+        sm:text-lg sm:h-[110vh]
+        md:text-2xl md:h-[115vh]
+        lg:text-lg lg:p-4 lg:h-[200vh]
+        xl:h-[210vh]">
 
 
 
@@ -17,7 +20,7 @@ const Section32 = () => {
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 
-<h3  className="text-center p-2">Donate to Ashley's legal fund using her Go Fund Me page or else by using the Ethereum blockchain option.</h3>
+<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund using her Go Fund Me page or else by using the Ethereum blockchain option below.</h3>
 <div className="flex justify-around">
 <button>Donate with Go Fund Me</button>
 <button>Donate with Ethereum</button>
