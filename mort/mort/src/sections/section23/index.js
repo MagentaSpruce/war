@@ -20,7 +20,7 @@ const Section23 = () => {
 
 
 <div className="xl:tracking-widest">
-<h3 className="text-center p-2 font-economica">Ashley in the meantime, a 21 year old girl and former kindergarden teacher with no prior criminal record, was sentenced to death. Mercifully commuted to life in prison. At 21 years old. For being pressured into signing her name on a package by a delivery man ordered to get a signature by the police.</h3>
+<h3 className="text-center p-2 font-economica">Ashley in the meantime, a 21 year old girl and former kindergarten teacher with no prior criminal record, was sentenced to death. Mercifully commuted to life in prison. At 21 years old. For being pressured into signing her name on a package by a delivery man ordered to get a signature by the police.</h3>
 
 <h3 className="text-center p-2 font-economica">This is justice? No, that is entrapment.</h3>
 

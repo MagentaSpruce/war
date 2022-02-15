@@ -12,7 +12,7 @@ const Section6 = () => {
   className="xxs:w-[90vw]  xxs:mx-auto border-2
   lg:w-[50vw]"
 />
-<h3 className="text-center  p-2 font-economica">They&apos;re teaching salary at Panyadee was only 45,000 Baht per month. Sergey is a highly intelligent high school Math teacher. He knew exactly where all the money was coming from.</h3>
+<h3 className="text-center  p-2 font-economica">Their teaching salary at Panyadee was only 45,000 Baht per month. Sergey is a highly intelligent high school Math teacher. He knew exactly where all the money was coming from.</h3>
 </div>
 
 <div className="">
