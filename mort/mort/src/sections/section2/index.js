@@ -9,14 +9,14 @@ const Section2 = () => {
         ">
 <div className="lg:pt-20 xl:pt-40">
 <h1 className="text-center  p-2 font-economica">Tristan Nettles was an international dark web drug dealer who worked as a high school science teacher at Panyadee International School on Koh Samui from 2017 until the summer of 2020.</h1>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644627619/panyadee-the-British-International-Schbool-of-Samui_rewegm.jpg" alt="Panyadee International School, Koh Samui, Thailand" srcset="" 
+<img src="/mort/mort/public/images/panyadee-the-British-International-Schbool-of-Samui.jpg" alt="Panyadee International School, Koh Samui, Thailand" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2
   lg:h-[40vh]"
 />
 </div>
 <div className="lg:px-6  lg:pt-6 xl:pt-20">
 <h3 className="text-center p-2 font-economica">Tristan started using BTC to import party drugs to the school's main office starting in 2018.</h3>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644628112/20181026_063700_avtifn.jpg" alt="Cocaine Being Ordered from Dream Market" 
+<img src="/mort/mort/public/images/20181026_063700.jpg" alt="Cocaine Being Ordered from Dream Market" 
    className="xxs:w-[90vw]  xxs:mx-auto border-2 
    lg:w-[30vw]
    "

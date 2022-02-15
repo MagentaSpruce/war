@@ -17,7 +17,7 @@ const Section16 = () => {
 <div className="">
 <h3 className="text-center p-2 font-economica">Another lawyer by the name of K Aot promised that for 150,000 he could further guarentee that the bail would be granted. Each were duly paid their fee.</h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644700161/KAot_bswwqr.jpg" alt="Lies and false promises from K Aot, after already being paid 150,000 baht." 
+<img src="/mort/mort/public/images/KAot.jpg" alt="Lies and false promises from K Aot, after already being paid 150,000 baht." 
    className="xxs:h-[40vh]   xxs:mx-auto  border-2
    lg:h-[65vh]"
 />

@@ -12,7 +12,7 @@ const Section19 = () => {
 
 <h3 className="text-center p-2 font-economica">Due to their incompetance and dishonesty, Ashley's bail was denied and the chance for any future bail ruined after Mike Greene's Koh Samui associate Teeranan Chuaichai and the other lawyer K Aot tried repeatedly to ram it through anyway. </h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644699524/baildeny_jwcpmt.png" alt="Copy of arrest report clearly recommending against bail" srcset="" 
+<img src="/mort/mort/public/images/baildeny.png" alt="Copy of arrest report clearly recommending against bail" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto xxs:pt-2 
   lg:w-[40vw]"
 />
@@ -25,7 +25,7 @@ const Section19 = () => {
    lg:h-[30vh]
    xl:h-[38vh]"
 />
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644701000/TEXT_bpp3uy.jpg" alt="Sergei after digging up Tristan's buried funds and taking possession" 
+<img src="/mort/mort/public/images/TEXT.jpg" alt="Sergei after digging up Tristan's buried funds and taking possession" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2
    lg:h-[30vh]
    xl:h-[38vh]"

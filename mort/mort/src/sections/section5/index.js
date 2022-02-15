@@ -8,7 +8,7 @@ const Section5 = () => {
         lg:h-[100vh] lg:flex lg:text-xl">
 <div className="lg:pt-5 xl:pt-20 xl:w-[90%]">
 <h1 className="text-center  p-2 font-economica">Sergei was paid a commission for every purchase made.</h1>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644630729/sergey2_pgxbpz.jpg" alt="Sergey Requesting Payment" srcset="" 
+<img src="/mort/mort/public/images/sergey2.jpg" alt="Sergey Requesting Payment" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto border-2
   lg:h-[60vh]"
 />
@@ -22,7 +22,7 @@ const Section5 = () => {
 />
 
 <h3 className="text-center p-2 font-economica">The IP address shows Transactions happening both from his home computer and his school office computer.</h3>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644630906/sergey3_ugsyjg.jpg" alt="Part of One Order" 
+<img src="/mort/mort/public/images/sergey3.jpg" alt="Part of One Order" 
    className="xxs:h-[40vh]   xxs:mx-auto 
    lg:h-[25vh]"
 />

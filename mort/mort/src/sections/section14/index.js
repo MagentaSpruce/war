@@ -16,7 +16,7 @@ const Section14 = () => {
 
 <div className="">
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644693314/dave_pbfk6e.jpg" alt="Dave Rensburg in blue" 
+<img src="/mort/mort/public/images/dave.jpg" alt="Dave Rensburg in blue" 
    className="xxs:w-[95vw]   xxs:mx-auto "
 />
 </div>

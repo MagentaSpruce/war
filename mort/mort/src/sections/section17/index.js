@@ -8,7 +8,7 @@ const Section17 = () => {
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
 <div className="">
 <h1 className="text-center p-2 font-economica">Ashley has been incarcerated since October 8, 2020 in Thai prison. She does not speak Thai.</h1>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644697001/love_eyjp8n.jpg" alt="Ashley in Koh Samui Provencial Prison" srcset="" 
+<img src="/mort/mort/public/images/love.jpg" alt="Ashley in Koh Samui Provencial Prison" srcset="" 
   className="xxs:w-[90vw] xxs:mx-auto xxs:pt-2 border-2
   lg:w-[35vw]"
 />

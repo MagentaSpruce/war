@@ -14,13 +14,13 @@ const Section15b = () => {
 
 <h3  className="text-center p-2 font-economica">Within ten minutes the police arrived.</h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644694891/package_wpz91d.jpg" alt="Pictures of the package contents" 
+<img src="/mort/mort/public/images/package.jpg" alt="Pictures of the package contents" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2
    lg:h-[50vh]"
 />
 </div>
 <div className="lg:pt-14 lg:ml-10">
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644701577/Ashley2_zwelad.jpg" alt="Ashley being framed" 
+<img src="/mort/mort/public/images/Ashley2.jpg" alt="Ashley being framed" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2
    lg:h-[70vh]"
 />

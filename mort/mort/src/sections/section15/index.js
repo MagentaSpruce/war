@@ -17,7 +17,7 @@ pt-10">
 <h3 className="text-center p-2 font-economica">This made it the perfect set up to begin a new operation since Ashley was already used to him regularly stopping by.</h3>
 </div>
 
-<div className=""><img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644693691/dave2_hlbneu.jpg" alt="Dave and Tristan discussing business license transfer" srcset="" 
+<div className=""><img src="/mort/mort/public/images/dave2.jpg" alt="Dave and Tristan discussing business license transfer" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2 
   lg:h-[60vh]"
 />
