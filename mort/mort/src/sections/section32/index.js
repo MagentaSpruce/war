@@ -20,12 +20,9 @@ const Section32 = () => {
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 
-<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund using her Go Fund Me page or else by using the Ethereum blockchain option below.</h3>
+<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund using the Ethereum blockchain option below. Donations help, but attention is most important!</h3>
 <div className="flex justify-around">
-<a href="https://www.gofundme.com/f/3uubfz-free-ashley-from-thai-prison?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1" target="_blank" rel="noreferrer" className="p-2 text-center bg-indigo-500 rounded-lg shadow-lg shadow-indigo-500 hover:scale-110 active:scale-100 w-[35%] mx-auto mt-4 cursor-pointer transition-all text-xl tracking-wide
-            md:text-3xl md:w-[28%]
-            lg:w-[30%]
-            ">Donate with GoFundMe</a>
+
 <a href="https://www.gofundme.com/f/3uubfz-free-ashley-from-thai-prison?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1" target="_blank" rel="noreferrer" className="p-2 text-center bg-blue-500 rounded-lg shadow-lg shadow-blue-500 hover:scale-110 active:scale-100 w-[35%] mx-auto mt-4 cursor-pointer transition-all text-xl tracking-wide
             md:text-3xl md:w-[28%]
             lg:w-[30%]

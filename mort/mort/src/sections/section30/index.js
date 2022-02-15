@@ -8,7 +8,7 @@ const Section30 = () => {
         lg:h-[80vh] ">
 
 <div className="xl:w-[90vw] xl:mx-auto">
-<h3 className="text-center p-2">Please consider donating to Ashley's GoFundMe below.</h3>
+<h3 className="text-center p-2">GoFundMe has refused to allow Ashley to have a fundraiser.</h3>
 
 <h3 className="text-center p-2">Please consider donating to Ashley's Ethereum legal fee fund below.</h3>
 
