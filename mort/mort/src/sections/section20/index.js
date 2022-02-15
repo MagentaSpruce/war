@@ -9,7 +9,7 @@ const Section20 = () => {
        ">
 <h3 className="text-center p-2 font-economica">Sergey gave Tristan half of the $60,000 but a week before Ashley's trial bill was due he absconded with the rest of the money causing Tristan to finally admit the entire truth.</h3>
 <a href="https://www.restameta.com/TH/Ko-Samui/100232551527526/Hot-in-the-Biscuit" className="cursor-pointer">
-<img src="/mort/mort/public/images/snip.png" alt="Tristan post on FB the whole truth" srcset="" 
+<img src="./images/snip.png" alt="Tristan post on FB the whole truth" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto xxs:pt-2
   lg:w-[20vw]
   xl:w-[17vw]"

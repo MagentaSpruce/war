@@ -16,7 +16,7 @@ const Section14 = () => {
 
 <div className="">
 
-<img src="/mort/mort/public/images/dave.jpg" alt="Dave Rensburg in blue" 
+<img src="./images/dave.jpg" alt="Dave Rensburg in blue" 
    className="xxs:w-[95vw]   xxs:mx-auto "
 />
 </div>

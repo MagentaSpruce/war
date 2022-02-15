@@ -9,7 +9,7 @@ const Section21 = () => {
 
 
 <div className="xl:pt-10 xl:w-[80%] xl:mx-auto">
-<img src="/mort/mort/public/images/Liam.jpg" alt="CEO of Panyadee Liam Capone being given evidence of Sergeys involvement in the drug ring" srcset="" 
+<img src="./images/Liam.jpg" alt="CEO of Panyadee Liam Capone being given evidence of Sergeys involvement in the drug ring" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2 
   lg:h-[50vh]"
 />
@@ -26,7 +26,7 @@ const Section21 = () => {
 
 
 
-<img src="/mort/mort/public/images/giles.jpg" alt="Headmast of Panyadee Giles Larkman being given evidence of Sergeys involvement in the drug ring" 
+<img src="./images/giles.jpg" alt="Headmast of Panyadee Giles Larkman being given evidence of Sergeys involvement in the drug ring" 
    className="xxs:h-[40vh]   xxs:mx-auto 
    lg:h-[48vh]"
 />

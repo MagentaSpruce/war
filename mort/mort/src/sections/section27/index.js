@@ -9,7 +9,7 @@ const Section27 = () => {
 
 <div className="lg:pt-10">
 <h3 className="text-center p-2">Other prisoners at the same prison however have been receiving letters from years, but for Ashley to receive letters in the mail has been labeled a security threat as if she was working with ISIS.</h3>
-<img src="/mort/mort/public/images/proof.png" alt="Another person confirming that letters are being sent to the same Ashley was moved to" srcset="" 
+<img src="./images/proof.png" alt="Another person confirming that letters are being sent to the same Ashley was moved to" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 
@@ -17,7 +17,7 @@ const Section27 = () => {
 </div>
 
 <div className="">
-<img src="/mort/mort/public/images/Ignore.png" alt="The eight attempt to receive information" srcset="" 
+<img src="./images/Ignore.png" alt="The eight attempt to receive information" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2
   lg:w-[50vw]"
 />

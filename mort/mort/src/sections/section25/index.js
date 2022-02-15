@@ -25,7 +25,7 @@ const Section25 = () => {
 <h3 className="text-center p-2">However in the middle of the night on December 29th, 2021, guards came to her cell. They forcibly packed her up and sent her to another prison on the mainland despite her appeal being ongoing where she was then immediately put into another 28 day complete isolation.</h3>
 </div>
 <div className="lg:pt-6  xl:tracking-wider xl:w-[70%] xl:mx-auto xl:pt-14">
-<img src="/mort/mort/public/images/Red.png" alt="Sergey Requesting Payment" srcset="" 
+<img src="./images/Red.png" alt="Sergey Requesting Payment" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 

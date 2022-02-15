@@ -8,13 +8,13 @@ const Section13 = () => {
         lg:text-xl lg:p-4 ">
 
 <div className="">
-<img src="/mort/mort/public/images/secrege.jpg" alt="Sergey confirming BTC for drugs" srcset="" 
+<img src="./images/secrege.jpg" alt="Sergey confirming BTC for drugs" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2"
 />
 <h3 className="text-center p-2 font-economica">Tristan no longer lived or worked in Thailand and he could no longer ship packages to the school because Liam Capone, the CEO of Panyadee, discovered 50 grams of MDMA that had been left in the mailroom after he had left the country in August, 2020.</h3>
 </div>
 
-<img src="/mort/mort/public/images/drugs.jpg" alt="50 grams of MDMA found in Panyadee's mailroom ordered by Tristan from a UK based drug vendor" 
+<img src="./images/drugs.jpg" alt="50 grams of MDMA found in Panyadee's mailroom ordered by Tristan from a UK based drug vendor" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2 "
 />
 

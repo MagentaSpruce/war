@@ -12,14 +12,14 @@ xl:w-[80%] xl:mx-auto">Tristan led a secret life. Nobody on the outside knew wha
 
 <h3  className="text-center p-2 font-economica">He was a master manipulator.</h3>
 
-<img src="/mort/mort/public/images/lolly.jpg" alt="Some of Tristan's students after making lollipops in class" srcset="" 
+<img src="./images/lolly.jpg" alt="Some of Tristan's students after making lollipops in class" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2 
   lg:w-[40vw]"
 />
 </div>
 <div className="xl:pt-10">
 <h3 className="text-center p-2 font-economica">He was even given a recommendation by the school he imported drugs to for 3 years before he left to attend medical school in Europe. </h3>
-<img src="/mort/mort/public/images/rec-min.jpg" alt="Recommendation letter from Panyadee after three years service." 
+<img src="./images/rec-min.jpg" alt="Recommendation letter from Panyadee after three years service." 
    className="xxs:w-[90vw]   xxs:mx-auto border-2
    lg:w-[27vw] "
 />
