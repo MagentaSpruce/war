@@ -1,7 +1,7 @@
 const Section25 = () => {
     return(
         <div className=" bg-black text-white font-economica
-        xxs:h-[125vh]
+        xxs:h-[130vh]
         xs:h-[115vh]
         sm:text-lg sm:h-[130vh]
         md:text-2xl md:h-[105vh]
