@@ -20,7 +20,7 @@ const Section19 = () => {
 <div className="lg:pt-6">
 <h3 className="text-center p-2 font-economica">Tristan had left buried on his property in Koh Samui $60,000 USD in cash that he asked Sergey to go and dig up to use for Ashley's bail and defense.</h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644701264/Sergey_p6xg1f.jpg" alt="Sergey retrieving the buried money and hiding it in his house" 
+<img src="/mort/mort/public/images/Sergey.jpg" alt="Sergey retrieving the buried money and hiding it in his house" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2
    lg:h-[30vh]
    xl:h-[38vh]"
