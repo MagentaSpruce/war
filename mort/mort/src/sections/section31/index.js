@@ -12,7 +12,7 @@ const Section31 = () => {
 
 <h3 className="text-center p-2">Ashley's lawyer Noppadol from Thailand Bail was paid over $35,000 and did not even argue in her defense. This poor young woman has been let down by the system and its benefactors at every turn.</h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644782489/ashleywarms_bf40yo.jpg" alt="Ashley with friend" srcset="" 
+<img src="/mort/mort/public/images/ashleywarms.jpg" alt="Ashley with friend" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2
   lg:w-[45vw]"
 />

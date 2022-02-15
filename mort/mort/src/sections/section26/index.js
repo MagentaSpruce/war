@@ -11,7 +11,7 @@ const Section26 = () => {
 
 
 <div className="">
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644710477/Shame_z3uibt.png" alt="South African Embassy being complicit in the eggregious treatment of Ashley" srcset="" 
+<img src="/mort/mort/public/images/Shame.png" alt="South African Embassy being complicit in the eggregious treatment of Ashley" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 

@@ -16,7 +16,7 @@ const Section32 = () => {
 <h1 className="text-center p-2">Won't you please help Ashley Oosthuizen? </h1>
 
 <h3 className="text-center p-2">Please, at least share this website and her story and if you are able to do more, she would be most grateful if you did. Be well assured that she is certainly worth it. Thank you for your help, compassion, and time.</h3>
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644714753/Ashley5_v1dezk.jpg" alt="Sergey Requesting Payment" srcset="" 
+<img src="/mort/mort/public/images/Ashley5.jpg" alt="Sergey Requesting Payment" srcset="" 
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 

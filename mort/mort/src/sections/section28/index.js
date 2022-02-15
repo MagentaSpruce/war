@@ -19,7 +19,7 @@ const Section28 = () => {
 </div>
 
 <div className="xl:-mt-6">
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644780608/ashleyTeach_iihshv.jpg" alt="Ashley teaching at Christmas time" srcset="" 
+<img src="/mort/mort/public/images/ashleyTeach.jpg" alt="Ashley teaching at Christmas time" srcset="" 
   className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2"
 />
 

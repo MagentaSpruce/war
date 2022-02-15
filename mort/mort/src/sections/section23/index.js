@@ -25,7 +25,7 @@ const Section23 = () => {
 <h3 className="text-center p-2 font-economica">This is justice? No, that is entrapment.</h3>
 
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644703312/judgement_kui4gm.jpg" alt="Laptop used for Dark Web Purchases" 
+<img src="/mort/mort/public/images/judgement.jpg" alt="Ashley's judgement" 
    className="xxs:h-[40vh]   xxs:mx-auto
    lg:h-[55vh] "
 />

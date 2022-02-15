@@ -24,7 +24,7 @@ const Section29 = () => {
 
 <h3 className="text-center p-2">Share this website with your local media and news organizations - what has been shown here is only the tip of the iceberg. An entire book will be written about how Tristan became the leader of a dark web drug ring spanning three islands.</h3>
 
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644781864/ashley6_pez3kk.jpg" alt="Ashley teaching children" srcset="" 
+<img src="/mort/mort/public/images/ashley6.jpg" alt="Ashley teaching children" srcset="" 
  className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2
  lg:w-[25vw]"
 />
