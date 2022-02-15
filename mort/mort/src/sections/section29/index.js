@@ -14,7 +14,7 @@ const Section29 = () => {
 
  <h3 className="text-center p-2">Send an email to the South African Embassy itself in protest of the current madness transpiring. You can email them here: <span className="underline underline-offset-4 cursor-pointer">bangkok.consular@dirco.gov.za</span></h3>
 
- <h3 className="text-center p-2">Send an email to the Amnesty International Org office in Bangkok and ask them to become involved directly. You can email them here: <span className="underline underline-offset-4 cursor-pointer">info.eseaprobangkok@amnesty.org</span></h3>
+ <h3 className="text-center p-2">Send an email to the Amnesty International Org office and ask them to become involved directly. You can email them here: <span className="underline underline-offset-4 cursor-pointer">aimember@aiusa.org</span></h3>
 </div>
 
 <div className="">
