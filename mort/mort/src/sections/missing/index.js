@@ -4,9 +4,9 @@
 const Missing = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[140vh]
-        xs:h-[140vh]
-        sm:h-[140vh] sm:text-lg
+        xxs:h-[145vh]
+        xs:h-[145vh]
+        sm:h-[145vh] sm:text-lg
         md:text-2xl md:h-[170vh]
         lg:flex lg:p-4 lg:h-[100vh]
         ">

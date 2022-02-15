@@ -1,9 +1,9 @@
 const Section15b = () => {
     return(
         <div className="bg-black text-white
-        xxs:h-[135vh] 
-        xs:h-[125vh]
-        sm:text-lg sm:h-[120vh]
+        xxs:h-[140vh] 
+        xs:h-[130vh]
+        sm:text-lg sm:h-[125vh]
         md:text-2xl md:h-[120vh]
         lg:text-xl lg:flex lg:p-4 lg:h-[100vh]
         xl:h-[105vh]">

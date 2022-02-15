@@ -1,9 +1,9 @@
 const Section3 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[145vh]
-        xs:h-[125vh]
-        sm:text-lg sm:h-[140vh]
+        xxs:h-[150vh]
+        xs:h-[130vh]
+        sm:text-lg sm:h-[145vh]
         md:text-2xl md:h-[145vh]
         lg:flex lg:p-4 lg:text-xl lg:h-[100vh]">
 <div className="lg:w-[100vw] lg:pt-6 xl:pt-14">
