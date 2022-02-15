@@ -8,7 +8,7 @@ const Section31 = () => {
         lg:p-4 lg:h-[100vh] lg:flex lg:text-xl">
 
 <div className="">
-<h3 className="text-center p-2">There is not much time left however. Her appeal will be decided in only three or four months time, maybe less, unless we can get an extension filed. The Thai system is notoriously corrupt and justice does not come free in the land of smiles.</h3>
+<h3 className="text-center p-2">There is not much time left. Her appeal will be decided in only three or four months time, maybe less, unless we can get an extension filed. The Thai system is notoriously corrupt and justice does not come free in the land of smiles.</h3>
 
 <h3 className="text-center p-2">Ashley's lawyer Noppadol from Thailand Bail was paid over $35,000 and did not even argue in her defense. This poor young woman has been let down by the system and its benefactors at every turn.</h3>
 

@@ -35,9 +35,9 @@ function App() {
     <Section26/>
     <Section27/>
     <Section28/>
+    <Section31/>
     <Section29/>
     <Section30/>
-    <Section31/>
     <Section32/>
 
     </div>
