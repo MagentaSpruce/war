@@ -22,7 +22,7 @@ const Section27 = () => {
   lg:w-[50vw]"
 />
 
-<h3 className="text-center p-2">Ashley Oosthuizen spends everyday alone in a Thai prison for a crime she had did not commit. All three of the men who are guilty of the crime are currently free. Sergey still teaches at Panyadee School where he helped import the drugs to. It really is almost too unbelievable to be true, and yet it is.</h3>
+<h3 className="text-center p-2">Ashley Oosthuizen spends everyday alone in a Thai prison for a crime she did not commit. All three of the men who are guilty of the crime are currently free. Sergey still teaches at Panyadee School where he helped import the drugs to. It really is almost too unbelievable to be true, and yet it is.</h3>
 
 <h3 className="text-center p-2">PLEASE - HELP ASHLEY.</h3>
 </div>
