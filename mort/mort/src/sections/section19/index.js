@@ -25,7 +25,7 @@ const Section19 = () => {
    lg:h-[30vh]
    xl:h-[38vh]"
 />
-<img src="/mort/mort/public/images/TEXT.jpg" alt="Sergei after digging up Tristan's buried funds and taking possession" 
+<img src="./images/TEXT.jpg" alt="Sergei after digging up Tristan's buried funds and taking possession" 
    className="xxs:h-[40vh]   xxs:mx-auto border-2
    lg:h-[30vh]
    xl:h-[38vh]"
