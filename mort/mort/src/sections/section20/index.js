@@ -1,10 +1,10 @@
 const Section20 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[140vh]
-        xs:h-[125vh]
-        sm:text-lg sm:h-[130vh]
-        md:text-2xl md:h-[170vh]
+        xxs:h-[150vh]
+        xs:h-[135vh]
+        sm:text-lg sm:h-[140vh]
+        md:text-2xl md:h-[180vh]
         lg:text-xl lg:p-2 lg:h-[100vh]
        ">
 <h3 className="text-center p-2 font-economica">Sergey gave Tristan half of the $60,000 but a week before Ashley's trial bill was due he absconded with the rest of the money causing Tristan to finally admit the entire truth.</h3>

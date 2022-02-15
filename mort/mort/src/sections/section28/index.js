@@ -1,10 +1,10 @@
 const Section28 = () => {
     return(
         <div className=" bg-black text-white font-economica
-        xxs:h-[135vh]
-        xs:h-[115vh]
-        sm:text-lg sm:h-[135vh]
-        md:text-2xl md:h-[105vh]
+        xxs:h-[145vh]
+        xs:h-[125vh]
+        sm:text-lg sm:h-[145vh]
+        md:text-2xl md:h-[115vh]
         lg:flex lg:text-xl lg:p-4 lg:h-[100vh]">
 
 <div className="lg:pt-14 xl:tracking-wider xl:w-[70%] xl:pt-5">

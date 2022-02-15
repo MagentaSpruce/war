@@ -1,10 +1,10 @@
 const Section13 = () => {
     return(
         <div className="bg-black text-white pt-4
-        xxs:h-[115vh] 
-        xs:h-[105vh]
-        sm:text-lg sm:h-[105vh]
-        md:text-2xl md:h-[105vh]
+        xxs:h-[125vh] 
+        xs:h-[115vh]
+        sm:text-lg sm:h-[115vh]
+        md:text-2xl md:h-[115vh]
         lg:text-xl lg:p-4 ">
 
 <div className="">

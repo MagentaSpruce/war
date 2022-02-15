@@ -1,10 +1,10 @@
 const Section3 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[135vh]
-        xs:h-[115vh]
-        sm:text-lg sm:h-[130vh]
-        md:text-2xl md:h-[135vh]
+        xxs:h-[145vh]
+        xs:h-[125vh]
+        sm:text-lg sm:h-[140vh]
+        md:text-2xl md:h-[145vh]
         lg:flex lg:p-4 lg:text-xl lg:h-[100vh]">
 <div className="lg:w-[100vw] lg:pt-6 xl:pt-14">
 <h1 className="text-center  p-2 font-economica">Tristan was involved in a home invasion in Escatva, Mississippi in 2009 while still in the Marines. He was selling large amounts of narcotics out of a house there. He was subpoenaed and flown by the Mississippi State Attorney from Atlanta to testify at the trial. A plea deal was accepted before he took the stand.</h1>

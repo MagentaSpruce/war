@@ -1,10 +1,10 @@
 const Section10 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[185vh]
-        xs:h-[160vh]
-        sm:text-lg sm:h-[180vh]
-        md:text-2xl md:h-[180vh]
+        xxs:h-[195vh]
+        xs:h-[170vh]
+        sm:text-lg sm:h-[190vh]
+        md:text-2xl md:h-[190vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
 <div className="div">
 <h3 className="text-center p-2 font-economica">When Tristan met Ashley she was working as a kindgarden teacher at Oonrak International School. She was forced to be let go after another teacher there named Tamarin complained about Ashley's lack of a four year degree. </h3>

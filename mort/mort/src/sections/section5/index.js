@@ -1,10 +1,10 @@
 const Section5 = () => {
     return(
         <div className="bg-black text-white
-        xxs:h-[180vh]
-        xs:h-[170vh]
-        sm:text-lg sm:h-[170vh]
-        md:text-2xl md:h-[160vh]
+        xxs:h-[190vh]
+        xs:h-[180vh]
+        sm:text-lg sm:h-[180vh]
+        md:text-2xl md:h-[170vh]
         lg:h-[100vh] lg:flex lg:text-xl">
 <div className="lg:pt-5 xl:pt-20 xl:w-[90%]">
 <h1 className="text-center  p-2 font-economica">Sergei was paid a commission for every purchase made.</h1>

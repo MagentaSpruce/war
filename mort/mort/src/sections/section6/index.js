@@ -1,10 +1,10 @@
 const Section6 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[120vh]
-        xs:h-[110vh]
-        sm:text-lg sm:h-[115vh]
-        md:text-2xl md:h-[120vh]
+        xxs:h-[130vh]
+        xs:h-[120vh]
+        sm:text-lg sm:h-[125vh]
+        md:text-2xl md:h-[130vh]
         lg:p-4 lg:text-xl lg:flex lg:h-[100vh]">
 
 <div className="lg:pt-10 xl:pt-0">

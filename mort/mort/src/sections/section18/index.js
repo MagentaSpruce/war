@@ -1,10 +1,10 @@
 const Section16 = () => {
     return(
         <div className=" bg-black text-white
-        xxs:h-[140vh]
-        xs:h-[120vh]
-        sm:text-lg sm:h-[135vh]
-        md:text-2xl md:h-[120vh]
+        xxs:h-[150vh]
+        xs:h-[130vh]
+        sm:text-lg sm:h-[145vh]
+        md:text-2xl md:h-[130vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
 <div className="">
 <h3 className="text-center p-2 font-economica">Ashley's lawyers all proved to be scoundrels. Mike Greene out of BKK promised to fly to Koh Samui directly to get Ashley out on bail after he was paid 95,000 Baht. He was paid but never got on a plane. </h3>
