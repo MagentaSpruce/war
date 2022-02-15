@@ -1,7 +1,7 @@
 const Section4 = () => {
     return(
         <div className="bg-black text-white
-        xxs:h-[145vh]
+        xxs:h-[185vh]
         xs:h-[140vh]
         sm:text-lg sm:h-[140vh]
         md:text-2xl md:h-[130vh]
