@@ -20,7 +20,7 @@ const Section32 = () => {
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 
-<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund soon, it is being set up and run by her father, Andre Oosthuizen.</h3>
+<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund soon, it is being set up and run by her father, Andree Oosthuizen.</h3>
 <div className="flex justify-around">
 
 
