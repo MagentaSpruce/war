@@ -25,7 +25,7 @@ const Section31 = () => {
 
 <h3 className="text-center p-2">Where being hounded into signing a package by a man sent by police to force the issue is equated to a drug importation charge with a death sentence commuted to life in prison despite NO other proof?</h3>
 
-<h3 className="text-center p-2">I beg you get outraged. She is a poor, defensless, and completely alone young woman who has never hurt anyone and who has no one to fight for her. She needs you desperately. Please help fight for her.</h3>
+<h3 className="text-center p-2">I beg you get outraged. She is a poor, defenseless, and completely alone young woman who has never hurt anyone and who has no one to fight for her. She needs you desperately. Please help fight for her.</h3>
 
 <h3 className="text-center p-2">If admitted rapist and murderers deserve bail and freedom, why doesn't Ashley?</h3>
 </div>
