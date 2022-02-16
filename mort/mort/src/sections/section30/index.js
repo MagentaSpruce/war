@@ -10,7 +10,7 @@ const Section30 = () => {
 <div className="xl:w-[90vw] xl:mx-auto">
 <h3 className="text-center p-2">GoFundMe has refused to allow Ashley to have a fundraiser.</h3>
 
-<h3 className="text-center p-2">Please consider donating to Ashley's Ethereum legal fee fund below.</h3>
+<h3 className="text-center p-2">Please consider donating to Ashley's legal fund when it is opened up by her father in South Africa, Andree Oosthuizen.</h3>
 
 <h3 className="text-center p-2 xl:mb-4">Please consider purchasing a copy of 'The Shepherd - A Bronze Age Tale.' 95% of all author profits will go to Ashley's legal fund.</h3>
 
