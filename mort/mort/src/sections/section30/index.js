@@ -8,9 +8,9 @@ const Section30 = () => {
         lg:h-[80vh] ">
 
 <div className="xl:w-[90vw] xl:mx-auto">
-<h3 className="text-center p-2">GoFundMe has refused to allow Ashley to have a fundraiser.</h3>
+<h3 className="text-center p-2">Media/Legal/Journalist queries please contact Ashley's appeal lawyer Lizelle Martin @ +1 804 789-4957 or +278 409-87-998 or else email her at lizelle6711@aol.com.</h3>
 
-<h3 className="text-center p-2">Please consider donating to Ashley's legal fund when it is opened up by her father in South Africa, Andree Oosthuizen.</h3>
+<h3 className="text-center p-2">Please consider donating to Ashley's legal fund when it is opened up by her brother in South Africa, Warren Oosthuizen.</h3>
 
 <h3 className="text-center p-2 xl:mb-4">Please consider purchasing a copy of 'The Shepherd - A Bronze Age Tale.' 95% of all author profits will go to Ashley's legal fund.</h3>
 
