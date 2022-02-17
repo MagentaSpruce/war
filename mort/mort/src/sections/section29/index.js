@@ -14,7 +14,7 @@ const Section29 = () => {
 
  <h3 className="text-center p-2">Send an email to the South African Embassy itself in protest of the current madness transpiring. You can email them here: <span className="underline underline-offset-4 cursor-pointer">bangkok.consular@dirco.gov.za</span></h3>
 
- <h3 className="text-center p-2">Send an email to the Amnesty International Org office and ask them to become involved directly. You can email them here: <span className="underline underline-offset-4 cursor-pointer">aimember@aiusa.org</span></h3>
+ <h3 className="text-center p-2">Send an email to Birgit Schwarz @ Human Rights Watch. You can email her here: <span className="underline underline-offset-4 cursor-pointer">schwarb@hrw.org</span></h3>
 </div>
 
 <div className="">
@@ -22,7 +22,7 @@ const Section29 = () => {
 
 <h3 className="text-center p-2">Share this website and this story on FaceBook and Instagram with the same hash, #FreeAshley.</h3>
 
-<h3 className="text-center p-2">Share this website with your local media and news organizations - what has been shown here is only the tip of the iceberg. An entire book will be written about how Tristan became the leader of a dark web drug ring spanning three islands.</h3>
+<h3 className="text-center p-2">Share this website with your local media and news organizations - what has been shown here is only the tip of the iceberg. Email News24 in South Africa at tips@24.com and ask them to report the story.</h3>
 
 <img src="./images/ashley6.jpg" alt="Ashley teaching children" srcset="" 
  className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2
