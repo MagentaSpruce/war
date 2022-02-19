@@ -14,16 +14,16 @@ const Section2 = () => {
   lg:h-[40vh]"
 />
 </div>
-<div className="lg:px-6  lg:pt-6 xl:pt-20">
-<h3 className="text-center p-2 font-economica">Tristan started using BTC to import party drugs to the school's main office starting in 2018.</h3>
+<div className="lg:px-6  lg:pt-6 xl:pt-20 md:-mt-8 ">
+<h3 className="text-center p-2 font-economica md:w-[70%] md:mx-auto">Tristan started using BTC to import party drugs to the school's main office starting in 2018.</h3>
 <img src="./images/20181026_063700.jpg" alt="Cocaine Being Ordered from Dream Market" 
    className="xxs:w-[90vw]  xxs:mx-auto border-2 
    lg:w-[30vw]
    "
 />
-<h3 className="text-center p-2 font-economica">Tristan is an admitted drug dealer and has been caught selling drugs repeatedly since he was 12 years old. </h3>
+<h3 className="text-center p-2 font-economica md:w-[70%] md:mx-auto">Tristan is an admitted drug dealer and has been caught selling drugs repeatedly since he was 12 years old. </h3>
 
-<h3 className="text-center p-2 font-economica">He was expelled from five middle schools as well as seven high schools for drug dealing and assault. He has been to court and in jail on numerous occasions for both offenses, including 56 days in the brig while serving on active duty in the Marine Corps infantry at Quantico, VA in 2009.</h3>
+<h3 className="text-center p-2 font-economica md:w-[85%] md:mx-auto">He was expelled from five middle schools as well as seven high schools for drug dealing and assault. He has been to court and in jail on numerous occasions for both offenses, including 56 days in the brig while serving on active duty in the Marine Corps infantry at Quantico, VA in 2009.</h3>
 </div>
 </div>
     )

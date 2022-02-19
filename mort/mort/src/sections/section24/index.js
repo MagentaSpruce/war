@@ -10,9 +10,9 @@ const Section24 = () => {
 
 
 <div className="xl:w-[80%] xl:mx-auto">
-<h3 className="text-center p-2 font-economica">No drugs were found at Ashley's residence despite an exhaustive search. No drug paraphenlia of any kind was found either. Her drug test came back clean and there were no pictures, videos, customers, clients, bank or crypto accounts, money, or other evidence to prove that Ashley was a drug importer.</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">No drugs were found at Ashley's residence despite an exhaustive search. No drug paraphenlia of any kind was found either. Her drug test came back clean and there were no pictures, videos, customers, clients, bank or crypto accounts, money, or other evidence to prove that Ashley was a drug importer.</h3>
 
-<h3 className="text-center p-2 font-economica">None of this mattered. Ashley did not even live in Thailand when Tristan and Sergey begin operations out of Panyadee, as the evidence clearly showed</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">None of this mattered. Ashley did not even live in Thailand when Tristan and Sergey begin operations out of Panyadee, as the evidence clearly showed</h3>
 
 <div className="flex flex-col xxs:w-[95vw] p-2 border-2 mx-auto mb-4 font-thin
 lg:w-[50vw]">
@@ -30,11 +30,11 @@ className="cursor-pointer">Read) Wife Killing Cop Released on 500,000 Baht Bail<
 </div>
 
 <div className="xl:w-[70%] xl:mx-auto xl:pt-32">
-<h3 className="text-center p-2 font-economica">Ashley Oosthuizen though, the 21 year old kindergadren teacher and biscuit lady with no prior record? What mercy did she receive? </h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley Oosthuizen though, the 21 year old kindergadren teacher and biscuit lady with no prior record? What mercy did she receive? </h3>
 
-<h3 className="text-center p-2 font-economica">She was denied bail at 2 million baht for being made to sign her name to a package that obviously did not belong to her and then was given a death sentence commuted to life without parole.</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">She was denied bail at 2 million baht for being made to sign her name to a package that obviously did not belong to her and then was given a death sentence commuted to life without parole.</h3>
 
-<h3 className="text-center p-2 font-economica">This is a travesty.</h3>
+<h3 className="text-center p-2 font-economica ">This is a travesty.</h3>
 </div>
 </div>
     )

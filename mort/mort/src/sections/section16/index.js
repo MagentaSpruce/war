@@ -7,9 +7,9 @@ const Section16 = () => {
         md:text-2xl md:h-[220vh]
         lg:text-xl lg:h-[105vh] lg:p-4 lg:flex">
 <div className="lg:w-[60%] lg:tracking-widest xl:pt-24">
-<h3 className="text-center p-2 font-economica">Ashley was taken away to a government black house where she was interrogated without a lawyer or interpreter present and then forced to sign documents in Thai and against her will under fear of rape or death. A far too common occurence for suspects in Thai police custody, as shown further below.</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley was taken away to a government black house where she was interrogated without a lawyer or interpreter present and then forced to sign documents in Thai and against her will under fear of rape or death. A far too common occurence for suspects in Thai police custody, as shown further below.</h3>
 
-<h3  className="text-center p-2 font-economica">Ashley was only 21 years old at this time, had never been in trouble with the police in her life, and was now all alone in an unmarked location surrounded by men threatening her with harm or worse if she did not cooperate.</h3>
+<h3  className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley was only 21 years old at this time, had never been in trouble with the police in her life, and was now all alone in an unmarked location surrounded by men threatening her with harm or worse if she did not cooperate.</h3>
 </div>
 <div className="lg:pl-10 lg:-mt-10">
 <img src="./images/report1.png" alt="Litany of injustices listed from court submitted documents pg 1" srcset="" 

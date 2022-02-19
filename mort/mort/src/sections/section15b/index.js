@@ -10,7 +10,7 @@ const Section15b = () => {
 
 
 <div className="lg:w-[60%]">
-<h3  className="text-center p-2 font-economica"> After seeing the name of Dave, being further hounded by the police sent package man, and with guest behind her waiting, Ashley signed as directed despite the delivery guy knowing she was not a man named Dave. She then placed the package on the ground, unopened, and went back to work as before. </h3>
+<h3  className="text-center p-2 font-economica md:w-[80%] md:mx-auto"> After seeing the name of Dave, being further hounded by the police sent package man, and with guest behind her waiting, Ashley signed as directed despite the delivery guy knowing she was not a man named Dave. She then placed the package on the ground, unopened, and went back to work as before. </h3>
 
 <h3  className="text-center p-2 font-economica">Within ten minutes the police arrived.</h3>
 

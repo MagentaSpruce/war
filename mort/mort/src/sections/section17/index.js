@@ -5,14 +5,14 @@ const Section17 = () => {
         xs:h-[150vh]
         sm:text-lg sm:h-[170vh]
         md:text-2xl
-        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
+        lg:text-xl lg:p-4 lg:flex lg:h-[105vh]">
 <div className="">
-<h1 className="text-center p-2 font-economica">Ashley has been incarcerated since October 8, 2020 in Thai prison. She does not speak Thai.</h1>
+<h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley has been incarcerated since October 8, 2020 in Thai prison. She does not speak Thai.</h1>
 <img src="./images/love.jpg" alt="Ashley in Koh Samui Provencial Prison" srcset="" 
   className="xxs:w-[90vw] xxs:mx-auto xxs:pt-2 border-2
   lg:w-[35vw]"
 />
-<h3 className="text-center p-2 font-economica">The instances of people in police custody being raped, tortured, and even murdered on the islands in the Gulf of Thailand is rampant and has been widely covered:</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">The instances of people in police custody being raped, tortured, and even murdered on the islands in the Gulf of Thailand is rampant and has been widely covered:</h3>
 </div>
 <div className="lg:w-[60%]">
 <div className="p-4 border-2 w-[95vw] mx-auto flex flex-col font-thin lg:w-[50vw]">
@@ -29,9 +29,9 @@ className="mb-2 cursor-pointer">4) Koh Tao Police Help Cover Up Assaults and Mur
 className="mb-2 cursor-pointer">5) Koh Tao Police Force Confession Under Threat of Death - 2014</a>
 </div>
 
-<h3 className="text-center p-2 font-economica">These few examples only touch the tip of the iceberg. Is it any wonder then that this 21 year old girl cooperated? They told her they knew it was not her. They told her they would help her if she signed. </h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto" >These few examples only touch the tip of the iceberg. Is it any wonder then that this 21 year old girl cooperated? They told her they knew it was not her. They told her they would help her if she signed. </h3>
 
-<h3 className="text-center p-2 font-economica">Then she got handed a death sentence anyway.</h3>
+<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Then she got handed a death sentence anyway.</h3>
 </div>
 
 </div>
