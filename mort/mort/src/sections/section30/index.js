@@ -5,7 +5,7 @@ const Section30 = () => {
         xs:h-[85vh]
         sm:text-lg sm:h-[90vh]
         md:text-2xl md:h-[60vh]
-        lg:h-[80vh] ">
+        lg:h-[90vh] ">
 
 <div className="xl:w-[90vw] xl:mx-auto">
 <h3 className="text-center p-2">Media/Legal/Journalist queries please contact Ashley's appeal lawyer Lizelle Martin @ +1 804 789-4957 or +278 409-87-998 or else email her at lizelle6711@aol.com.</h3>

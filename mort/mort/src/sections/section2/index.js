@@ -5,7 +5,7 @@ const Section2 = () => {
         xs:h-[130vh]
         sm:text-lg sm:h-[140vh]
         md:text-2xl md:h-[145vh]
-        lg:p-4 lg:flex lg:text-xl lg:h-[100vh]
+        lg:p-4 lg:flex lg:text-xl lg:h-[105vh]
         ">
 <div className="lg:pt-20 xl:pt-40">
 <h1 className="text-center  p-2 font-economica">Tristan Nettles was an international dark web drug dealer who worked as a high school science teacher at Panyadee International School on Koh Samui from 2017 until the summer of 2020.</h1>

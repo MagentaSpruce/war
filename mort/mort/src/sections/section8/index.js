@@ -5,7 +5,7 @@ const Section8 = () => {
         xs:h-[120vh]
         sm:text-lg sm:h-[125vh]
         md:text-2xl 
-        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
+        lg:text-xl lg:p-4 lg:flex lg:h-[95vh]">
 <div className="">
 <h1 className="text-center p-2 font-economica
 xl:w-[80%] xl:mx-auto md:w-[80%] md:mx-auto">Tristan was a known serial philanderer who has admitted to being with over 200 women starting from the age of 12, including during his relationship with Ashley.</h1>

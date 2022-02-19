@@ -5,7 +5,7 @@ const Section7 = () => {
         xs:h-[160vh]
         sm:text-lg sm:h-[170vh]
         md:text-2xl md:h-[190vh]
-        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
+        lg:text-xl lg:p-4 lg:flex lg:h-[105vh]">
 <div className="xl:pt-14">
 <h1 className="text-center  p-2 font-economica md:w-[80%] md:mx-auto">Sergey handled the bitcoin for cash, Tristan handled the bitcoin for drugs. This went on for almost three years.</h1>
 <img src="./images/xtc.jpg" alt="Ordering 500 XTC pills and 100 grams of S-Ketamine" srcset="" 

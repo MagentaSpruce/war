@@ -5,7 +5,7 @@ const Section3 = () => {
         xs:h-[130vh]
         sm:text-lg sm:h-[145vh]
         md:text-2xl md:h-[145vh]
-        lg:flex lg:p-4 lg:text-xl lg:h-[100vh]">
+        lg:flex lg:p-4 lg:text-xl lg:h-[105vh]">
 <div className="lg:w-[100vw] lg:pt-6 xl:pt-14">
 <h1 className="text-center  p-2 font-economica md:w-[80%] md:mx-auto">Tristan was involved in a home invasion in Escatva, Mississippi in 2009 while still in the Marines. He was selling large amounts of narcotics out of a house there. He was subpoenaed and flown by the Mississippi State Attorney from Atlanta to testify at the trial. A plea deal was accepted before he took the stand.</h1>
 <img src="./images/weedTree.jpg" alt="Tristan Purchasing Marijuana from a Local Weed Farmer" srcset="" 

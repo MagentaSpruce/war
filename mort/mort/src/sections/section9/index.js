@@ -5,7 +5,7 @@ const Section9 = () => {
         xs:h-[150vh]
         sm:text-lg sm:h-[160vh]
         md:text-2xl md:h-[185vh]
-        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]">
+        lg:text-xl lg:p-4 lg:flex lg:h-[105vh]">
 <div className="xl:pt-10">
 <h3 className="text-center p-2 font-economica
 xl:w-[80%] xl:mx-auto md:w-[80%] md:mx-auto">Tristan led a secret life. Nobody on the outside knew what he was doing. He never missed work or got into any trouble and his teaching was highly praised. His students had the highest IGCSE test scores in the school's history after his second year there.</h3>

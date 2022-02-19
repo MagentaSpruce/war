@@ -5,7 +5,7 @@ const Section19 = () => {
         xs:h-[170vh]
         sm:text-lg sm:h-[190vh]
         md:text-2xl
-        lg:text-xl lg:p-4 lg:h-[105vh] lg:flex
+        lg:text-xl lg:p-4 lg:h-[110vh] lg:flex
         ">
 <div className="lg:pt-6">
 <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Neither of the lawyer's bothered to read her arrest report however which clearly stated that bail was not recommended at that time. </h3>

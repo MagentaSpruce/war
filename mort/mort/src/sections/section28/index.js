@@ -15,7 +15,7 @@ const Section28 = () => {
 </div>
 <h3 className="text-center p-2 md:w-[80%] md:mx-auto">The truth is that Tristan Nettles and Sergey Rumyanstev imported drugs into Panyadee International School for well over two years, before Ashley even lived in Thailand.</h3>
 
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">The Thai authorities do not want the truth to get out and so Ashley is being locked away, unable to even receive mail. The flower of her youth is dying.</h3>
+<h3 className="text-center p-2 md:w-[80%] md:mx-auto">The Thai authorities do not want the truth to get out and so Ashley is being locked away, unable to even receive books. The flower of her youth is dying.</h3>
 </div>
 
 <div className="xl:-mt-6">

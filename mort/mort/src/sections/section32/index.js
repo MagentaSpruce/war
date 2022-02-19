@@ -10,7 +10,7 @@ const Section32 = () => {
 
 
 
-<h3 className="text-center p-2">Please, make this your fight. Ashley needs your help now more than ever. She is only 22 years old. Right now as you read these words she languishes in a Thai prison cell where she does not even understand the words spoken for a crime she had nothing to do with. She has not been heard from by anyone for over two months. She is not allowed books, letters, or calls.</h3>
+<h3 className="text-center p-2">Please, make this your fight. Ashley needs your help now more than ever. She is only 22 years old. Right now as you read these words she languishes in a Thai prison cell where she does not even understand the words spoken for a crime she had nothing to do with. She has not been seen by anyone for over two months. She does not deserve this. Not when rapist and killers have already gone free.</h3>
 
 
 <h1 className="text-center p-2">Won't you please help Ashley Oosthuizen? </h1>

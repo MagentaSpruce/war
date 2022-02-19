@@ -25,7 +25,7 @@ const Section26 = () => {
 </div>
 </div>
 
-<div className="xl:w-[95%] xl:pt-10"><h3 className="text-center p-2 md:w-[80%] md:mx-auto">Ashley has not been heard from since a letter arrived dated January 9th. As of now, we do not even know if she is still alive.</h3>
+<div className="xl:w-[95%] xl:pt-10"><h3 className="text-center p-2 md:w-[80%] md:mx-auto">Ashley has not been seen since Dec 16th. As of now, we do not even know if she is safe and free from harm.</h3>
 
 <h3 className="text-center p-2 md:w-[80%] md:mx-auto">The South African embassy, from the country that saw Nelson Mandela freed from his unjust incarceration, have done absolutely nothing in the face of this growing scandal.</h3>
 
