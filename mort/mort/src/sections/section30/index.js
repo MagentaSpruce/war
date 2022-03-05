@@ -10,7 +10,12 @@ const Section30 = () => {
 <div className="xl:w-[90vw] xl:mx-auto">
 <h3 className="text-center p-2">Media/Legal/Journalist queries please contact Ashley's appeal lawyer Lizelle Martin @ +1 804 789-4957 or +278 409-87-998 or else email her at lizelle6711@aol.com.</h3>
 
-<h3 className="text-center p-2">Please consider donating to Ashley's legal fund when it is opened up by her lawyer Lizelle Martin. Further details on how to donate will be provided soon.</h3>
+<div className="flex items-center">
+<h3 className="text-center p-2 mr-4">Please consider donating to Ashley's legal fund here:</h3>
+<a href="https://www.gofundme.com/f/help-ashley-oosthuizen?member=17832103&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=social&utm_source=whatsapp"
+className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 "
+>DONATE NOW</a>
+</div>
 
 <h3 className="text-center p-2 xl:mb-4">Please consider purchasing a copy of 'The Shepherd - A Bronze Age Tale.' 95% of all author profits will go to Ashley's legal fund.</h3>
 

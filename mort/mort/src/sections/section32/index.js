@@ -20,14 +20,17 @@ const Section32 = () => {
   className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
 />
 
-<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund soon, it is being set up and run by her lawyer, Lizelle Martin.</h3>
+<h3  className="text-center p-2 lg:pt-10">Donate to Ashley's legal fund now, it is being set up and run by a 503 non-profit organization, Bending the Bars, under the control of Ashley's lawyer, Lizelle Martin. Please donate now.</h3>
 <div className="flex justify-around">
-
+<a href="https://www.gofundme.com/f/help-ashley-oosthuizen?member=17832103&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=social&utm_source=whatsapp"
+className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 xxs:mt-5 xs:mt-14
+lg:mt-6"
+>DONATE NOW</a>
 
 </div>
 
 <h1 className="text-center text-5xl text-yellow-500 xxs:pt-5 xs:pt-14
-lg:pt-14">FREE ASHLEY</h1>
+lg:pt-12">FREE ASHLEY</h1>
 </div>
     )
 }
