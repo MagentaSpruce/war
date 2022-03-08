@@ -6,7 +6,7 @@ const Section32 = () => {
         sm:text-lg sm:h-[155vh]
         md:text-2xl md:h-[125vh]
         lg:text-lg lg:p-4 lg:h-[270vh]
-        xl:h-[220vh]">
+        2xl:h-[220vh]">
 
 
 
