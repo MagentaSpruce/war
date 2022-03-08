@@ -5,7 +5,7 @@ const Section11 = () => {
         xs:h-[145vh]
         sm:text-lg sm:h-[160vh]
         md:text-2xl 
-        lg:text-lg lg:p-4 lg:flex lg:h-[105vh]">
+        lg:text-lg lg:p-4 lg:flex lg:h-[115vh]">
 <div className="">
 <h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley put her whole heart and soul into that business. It was her entire life. She worked six days per week waking up at 5:15am each day to make sure the shop was opened by 7am.</h1>
 <img src="./images/hitb2.jpeg" alt="Ashley and Joy at the restaraunt" srcset="" 

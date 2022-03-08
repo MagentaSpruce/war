@@ -5,7 +5,7 @@ const Section16 = () => {
         xs:h-[175vh]
         sm:text-lg sm:h-[195vh]
         md:text-2xl md:h-[220vh]
-        lg:text-xl lg:h-[105vh] lg:p-4 lg:flex">
+        lg:text-xl lg:h-[115vh] lg:p-4 lg:flex">
 <div className="lg:w-[60%] lg:tracking-widest xl:pt-24">
 <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley was taken away to a government black house where she was interrogated without a lawyer or interpreter present and then forced to sign documents in Thai and against her will under fear of rape or death. A far too common occurence for suspects in Thai police custody, as shown further below.</h3>
 

@@ -5,7 +5,7 @@ const Section17 = () => {
         xs:h-[150vh]
         sm:text-lg sm:h-[170vh]
         md:text-2xl
-        lg:text-xl lg:p-4 lg:flex lg:h-[105vh]">
+        lg:text-xl lg:p-4 lg:flex lg:h-[115vh]">
 <div className="">
 <h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley has been incarcerated since October 8, 2020 in Thai prison. She does not speak Thai.</h1>
 <img src="./images/love.jpg" alt="Ashley in Koh Samui Provencial Prison" srcset="" 

@@ -5,7 +5,7 @@ const Section23 = () => {
         xs:h-[155vh]
         sm:text-lg sm:h-[170vh]
         md:text-2xl md:h-[130vh]
-        lg:text-xl lg:flex lg:p-0 lg:h-[100vh]">
+        lg:text-xl lg:flex lg:p-0 lg:h-[110vh]">
 
 <div className="lg:text-lg">
 <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">A Thai man named Mr. Big owns Panyadee as well as many hotels on the island and he has connections with the Thai Police there. Thailand is a country obsessed with 'saving face.'</h3>

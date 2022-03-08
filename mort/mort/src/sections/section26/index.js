@@ -5,7 +5,7 @@ const Section26 = () => {
         xs:h-[145vh]
         sm:text-lg sm:h-[165vh]
         md:text-2xl md:h-[135vh]
-        lg:text-xl lg:p-4 lg:h-[100vh] lg:flex">
+        lg:text-xl lg:p-4 lg:h-[110vh] lg:flex">
 
 
 
