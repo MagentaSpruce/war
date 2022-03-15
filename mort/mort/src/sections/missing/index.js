@@ -13,7 +13,7 @@ const Missing = () => {
         <div className="">
         <h1 className="text-yellow-500 text-center text-3xl p-2
 
-">Ashley Oosthuizen has not been seen in over two months...</h1>
+">Ashley Oosthuizen has not been seen in over three months...</h1>
 <img src="./images/Ashley_Oosthuizen.jpg" alt="Ashley Oosthuizen" srcset="" 
   className="xxs:w-[90vw]  xxs:mx-auto border-2 
   lg:w-[80vw]
