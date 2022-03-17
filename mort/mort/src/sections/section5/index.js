@@ -16,7 +16,7 @@ const Section5 = () => {
 </div>
 
 <div className="lg:pt-6 xl:pt-20">
-<img src="./images/drugspic.jpg" alt="Part of One Order" 
+<img src="./images/drugs1-min.jpg" alt="Part of One Order" 
    className="xxs:h-[40vh]   xxs:mx-auto 
    lg:h-[25vh]"
 />
