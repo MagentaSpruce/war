@@ -16,7 +16,7 @@ const Section5 = () => {
 </div>
 
 <div className="lg:pt-6 xl:pt-20">
-<img src="https://res.cloudinary.com/bodi-web3/image/upload/v1644784166/bitkub_nnrc9r.jpg" alt="Part of One Order" 
+<img src="./images/drugspic.jpg" alt="Part of One Order" 
    className="xxs:h-[40vh]   xxs:mx-auto 
    lg:h-[25vh]"
 />
