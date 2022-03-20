@@ -29,6 +29,8 @@ lg:mt-6"
 
 </div>
 
+<h3  className="text-center p-2 lg:pt-10">If you cannot use GoFundMe to make a donation, please consider sending an Ethereum donation to this Ethereum address: <span className="text-yellow-500">0x7bDE2b0B4499c7206fB2A3AB437DF250203281ce</span></h3>
+
 <h1 className="text-center text-5xl text-yellow-500 xxs:pt-5 xs:pt-14
 lg:pt-12">FREE ASHLEY</h1>
 </div>
