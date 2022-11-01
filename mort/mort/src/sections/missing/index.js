@@ -15,7 +15,7 @@ const Missing = () => {
 
 "
         >
-          Ashley Oosthuizen has not been seen in over ten months...
+          Ashley Oosthuizen has not been seen in over one year...
         </h1>
         <img
           src="./images/Ashley_Oosthuizen.jpg"

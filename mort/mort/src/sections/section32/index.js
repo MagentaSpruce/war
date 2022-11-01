@@ -36,9 +36,9 @@ const Section32 = () => {
       />
 
       <h3 className="text-center p-2 lg:pt-10">
-        Donate to Ashley's legal fund now, it is being set up and run by a 503
-        non-profit organization,{' '}
-        <a
+        Contact media outlets, journalist, human rights lawyers, government
+        officials and politicials now!
+        {/* <a
           className="underline underline-offset-4"
           href="https://www.bendingbars.org/"
         >
@@ -46,16 +46,16 @@ const Section32 = () => {
           Bending the Bars
         </a>
         , under the control of Ashley's lawyer, Lizelle Martin. Please donate
-        now.
+        now. */}
       </h3>
       <div className="flex justify-around">
-        <a
+        {/* <a
           href="https://www.gofundme.com/f/help-ashley-oosthuizen?member=17832103&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=social&utm_source=whatsapp"
           className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 xxs:mt-5 xs:mt-14
 lg:mt-6"
         >
           DONATE NOW
-        </a>
+        </a> */}
       </div>
 
       {/* <h3  className="text-center p-2 lg:pt-10">If you cannot use GoFundMe to make a donation, please consider sending an Ethereum donation to this Ethereum address: <span className="text-yellow-500
