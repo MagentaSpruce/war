@@ -37,7 +37,16 @@ const Section32 = () => {
 
       <h3 className="text-center p-2 lg:pt-10">
         Contact media outlets, journalist, human rights lawyers, government
-        officials and politicials now!
+        officials and politicians now! There is another book currently being
+        written about the entire story which will make it impossible to keep
+        this corrupt monstrosity secret from the world any longer. Time will
+        tell. <em>Mort omnibus tyrannis.</em>
+        <br />
+        MDMA, LSD, Ketamine and marijuana are gifts to mankind - only the
+        ignorant, enslaved, corrupt, or tyrannical would seek to strip away the
+        freedom and liberty of other human beings for these substances,
+        especially while tobbacco and alcohol are imported by the shipload. WAKE
+        UP!!! #FreeAshley
         {/* <a
           className="underline underline-offset-4"
           href="https://www.bendingbars.org/"
