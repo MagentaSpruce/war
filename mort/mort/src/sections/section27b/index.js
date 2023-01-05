@@ -47,7 +47,9 @@ const Section28 = () => {
   lg:w-[50vw]"
         />
 
-        <h3 className="text-center p-2">PLEASE - HELP ASHLEY.</h3>
+        <h3 className="text-center p-2">
+          PLEASE - HELP ASHLEY by tweeting @elonmusk her nightmare.
+        </h3>
         <div className="flex justify-around">
           {/* <a href="https://www.gofundme.com/f/help-ashley-oosthuizen?member=17832103&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=social&utm_source=whatsapp"
 className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 xxs:mt-5 xs:mt-14

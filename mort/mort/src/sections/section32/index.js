@@ -12,11 +12,10 @@ const Section32 = () => {
     >
       <h3 className="text-center p-2">
         Please, make this your fight. Ashley needs your help now more than ever.
-        She is only 22 years old. Right now as you read these words she
-        languishes in a Thai prison cell where she does not even understand the
-        words spoken for a crime she had nothing to do with. She has not been
-        seen by anyone for over two months. She does not deserve this. Not when
-        rapist and killers have already gone free.
+        She is only 23 years old. Right now as you read these words she
+        languishes in a Thai prison cell for a crime she had nothing to do with.
+        She has hardly been seen by anyone for over two years. She does not
+        deserve this. Not when rapist and killers have already gone free.
       </h3>
 
       <h1 className="text-center p-2">
@@ -36,11 +35,11 @@ const Section32 = () => {
       />
 
       <h3 className="text-center p-2 lg:pt-10">
-        Contact media outlets, journalist, human rights lawyers, government
-        officials and politicians now! There is another book currently being
-        written about the entire story which will make it impossible to keep
-        this corrupt monstrosity secret from the world any longer. Time will
-        tell. <em>Mort omnibus tyrannis.</em>
+        Tweet @elonmusk now! There is another book currently being written about
+        the entire true and verifiable story which will make it impossible to
+        keep this corrupt monstrosity secret from the world any longer. Time
+        will tell. <em>Mort omnibus tyrannis.</em>
+        <br />
         <br />
         MDMA, LSD, Ketamine and marijuana are gifts to mankind - only the
         ignorant, enslaved, corrupt, or tyrannical would seek to strip away the

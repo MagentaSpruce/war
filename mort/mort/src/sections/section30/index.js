@@ -10,9 +10,9 @@ const Section30 = () => {
     >
       <div className="xl:w-[90vw] xl:mx-auto">
         <h3 className="text-center p-2">
-          Media/Legal/Journalist queries please contact Ashley's appeal lawyer
-          Lizelle Martin @ +1 804 789-4957 or +278 409-87-998 or else email her
-          at lizelle6711@aol.com.
+          Media/Legal/Journalist queries please contact Ashley's mother Lynette
+          Blignaut @ +27 83 458 9076 or her father Andre Dupree @ +27 83 442
+          9968.
         </h3>
 
         {/* <div className="md:flex xxs:text-center items-center">
@@ -22,7 +22,7 @@ className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 
 >DONATE NOW</a>
 </div> */}
 
-        <div className="md:flex xxs:text-center items-center">
+        <div className="md:flex md:flex-col xxs:text-center items-center">
           <h3 className="text-center p-2 xl:mb-4">
             Please consider purchasing a copy of 'The Shepherd - A Bronze Age
             Tale when it is published.' 100% of all author profits will go to
@@ -30,7 +30,7 @@ className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 
           </h3>
           <a
             href="https://www.theshepherdnovel.com"
-            className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 "
+            className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 mb-4"
           >
             Book for Ashley
           </a>
@@ -48,7 +48,7 @@ className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 
         </h3>
 
         <h3 className="text-center p-2">
-          With the help of people like you, we can get her back to us.
+          With the help of people like you, we can get her free.
         </h3>
       </div>
     </div>

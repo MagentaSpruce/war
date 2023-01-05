@@ -15,7 +15,7 @@ const Missing = () => {
 
 "
         >
-          Ashley Oosthuizen has not been seen in over one year...
+          Ashley Oosthuizen has been imprisoned for nearly three years...
         </h1>
         <img
           src="./images/Ashley_Oosthuizen.jpg"
