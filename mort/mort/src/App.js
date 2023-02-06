@@ -40,7 +40,7 @@ function App() {
   return (
     <div>
       <h1>Tristan loves Ashley 🌞</h1>
-      <Missing />
+      {/* <Missing />
       <Section2 />
       <Section3 />
       <Section4 />
@@ -73,7 +73,7 @@ function App() {
       <Section31 />
       <Section29 />
       <Section30 />
-      <Section32 />
+      <Section32 /> */}
     </div>
   );
 }
