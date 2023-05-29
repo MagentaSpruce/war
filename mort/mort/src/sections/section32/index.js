@@ -1,51 +1,40 @@
 const Section32 = () => {
   return (
     <div
-      className=" bg-black text-white font-economica
-        xxs:h-[150vh]
-        xs:h-[150vh]
-        sm:text-lg sm:h-[170vh]
+      className=" bg-slate-900 text-white font-economica
+        xxs:h-[140vh]
+        xs:h-[130vh]
+        sm:text-lg sm:h-[125vh]
         md:text-2xl md:h-[125vh]
-        lg:text-lg lg:p-4 lg:h-[270vh]
-        xl:h-[240vh]
-        2xl:h-[220vh]"
+        lg:text-lg lg:p-4 lg:h-[105vh]"
     >
       <h3 className="text-center p-2">
-        Please, make this your fight. Ashley needs your help now more than ever.
-        She is only 23 years old. Right now as you read these words she
-        languishes in a Thai prison cell for a crime she had nothing to do with.
-        She has hardly been seen by anyone for over two years. She does not
-        deserve this. Not when rapist and killers have already gone free.
+        Join our fight! Ashley is only 24 years old. Right now as you read these
+        words she languishes in a Thai prison cell for a victimless crime. She
+        has hardly been seen by anyone for over three years. She does not
+        deserve this.
       </h3>
 
-      <h1 className="text-center p-2">
-        Won't you please help Ashley Oosthuizen?{' '}
-      </h1>
-
       <h3 className="text-center p-2">
-        Please, at least share this website and her story and if you are able to
-        do more, she would be most grateful if you did. Be well assured that she
-        is certainly worth it. Thank you for your help, compassion, and time.
+        Please join our army as we fight to free Ashley Oosthuizen and educate
+        the world on the truth about designer drugs.
       </h3>
       <img
         src="./images/Ashley5.jpg"
-        alt="Sergey Requesting Payment"
+        alt="Ashley Oosthuizen sitting with her friends on a beach in happiness"
         srcset=""
-        className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2"
+        className="xxs:w-[95vw]  xxs:mx-auto xxs:pt-2 lg:w-[27vw]"
       />
 
       <h3 className="text-center p-2 lg:pt-10">
-        Tweet @elonmusk now! There is another book currently being written about
-        the entire true and verifiable story which will make it impossible to
-        keep this corrupt monstrosity secret from the world any longer. Time
-        will tell. <em>Mort omnibus tyrannis.</em>
+        <em>Mort omnibus tyrannis.</em>
         <br />
         <br />
         MDMA, LSD, Ketamine and marijuana are gifts to mankind - only the
         ignorant, enslaved, corrupt, or tyrannical would seek to strip away the
         freedom and liberty of other human beings for these substances,
-        especially while tobbacco and alcohol are imported by the shipload. WAKE
-        UP!!! #FreeAshley
+        especially while tobbacco, alcohol, and pharmaceuticals are imported in
+        by the shipload. WAKE UP!!! The future is now. #FreeAshley
         {/* <a
           className="underline underline-offset-4"
           href="https://www.bendingbars.org/"
@@ -72,7 +61,7 @@ xxs:text-sm md:text-base
 
       <h1
         className="text-center text-5xl text-yellow-500 xxs:pt-5 xs:pt-14
-lg:pt-12"
+lg:pt-1"
       >
         FREE ASHLEY
       </h1>

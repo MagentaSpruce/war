@@ -1,30 +1,52 @@
 const Section11 = () => {
-    return(
-        <div className=" bg-black text-white
-        xxs:h-[180vh]
-        xs:h-[145vh]
-        sm:text-lg sm:h-[160vh]
+  return (
+    <div
+      className=" bg-slate-900 text-white
+        xxs:h-[315vh]
+        xs:h-[305vh]
+        sm:text-lg sm:h-[285vh]
         md:text-2xl 
-        lg:text-lg lg:p-4 lg:flex lg:h-[115vh]">
-<div className="">
-<h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley put her whole heart and soul into that business. It was her entire life. She worked six days per week waking up at 5:15am each day to make sure the shop was opened by 7am.</h1>
-<img src="./images/hitb2.jpeg" alt="Ashley and Joy at the restaraunt" srcset="" 
-  className="xxs:w-[90vw]  xxs:mx-auto border-2
-  lg:w-[43vw]"
-/>
-<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley made the menu, the recipes, the excel sheets for expenses, the network of local artisans who supplied her jams and meats and breads. She even did the community sales, such as the Green Market, which happened after work hours. She did everything with her friend and chef Joy who worked with her every day. </h3>
-</div>
+        lg:text-lg lg:p-4 lg:flex lg:h-[100vh]"
+    >
+      <div className="">
+        <h1 className="text-center p-2 font-economica md:w-[95%] md:mx-auto">
+          Ashley was Tristan's lover, best friend and protoge for over two
+          years. He taught her everything he knew but sadly she was caught off
+          guard.
+        </h1>
+        <img
+          src="./images/extraEvidence.jpg"
+          alt="Ashley pointing at previous packages which had been sent to HITB and were not disposed of."
+          srcset=""
+          className="xxs:w-[90vw]  xxs:mx-auto border-2
+  lg:w-[19vw]"
+        />
+      </div>
 
-<div className="xl:pt-8">
-<h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">Ashley was paid only 25,000 Baht per month. She had no bank account and no bitcoin or other crypto wallets. Less than one month before her arrest she did not even have enough money for a cheap new phone after her old one stopped working. She was broke and living on a shoestring budget.</h3>
+      <div className="xl:pt-2">
+        <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
+          In addition to her signature, previous package decoys, like the one
+          containing the 250 g MDMA, were found in the back of HITB. Ashley's
+          cell phone also contained incriminating texts between her and Tristan.
+        </h3>
 
-<img src="./images/phone.jpg" alt="Ashley bemoaning her poverty" 
-   className="xxs:h-[40vh]   xxs:mx-auto border-2
-   lg:h-[60vh] "
-/>
-</div>
-</div>
-    )
-}
+        <div className="lg:flex lg:pl-[12%] ">
+          <img
+            src="./images/tele1.jpg"
+            alt="Screenshot 1 from police showing Telegram secret chat between Tristan and Ashley"
+            className="xxs:h-[80vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2
+   lg:h-[75vh] lg:mx-1"
+          />
+          <img
+            src="./images/tele3.jpg"
+            alt="Screenshot 2 from police showing Telegram secret chat between Tristan and Ashley"
+            className="xxs:h-[80vh]   xxs:mx-auto border-2
+   lg:h-[75vh] lg:mx-1"
+          />
+        </div>
+      </div>
+    </div>
+  );
+};
 
-export default Section11
+export default Section11;

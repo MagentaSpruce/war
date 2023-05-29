@@ -2,11 +2,11 @@ const Section17 = () => {
   return (
     <div
       className=" bg-black text-white
-        xxs:h-[165vh]
+        xxs:h-[160vh]
         xs:h-[150vh]
-        sm:text-lg sm:h-[170vh]
+        sm:text-lg sm:h-[135vh]
         md:text-2xl
-        lg:text-xl lg:p-4 lg:flex lg:h-[115vh]"
+        lg:text-xl lg:p-4 lg:flex lg:h-[100vh]"
     >
       <div className="">
         <h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
@@ -22,11 +22,11 @@ const Section17 = () => {
         />
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
           The instances of people in police custody being raped, tortured, and
-          even murdered on the islands in the Gulf of Thailand is rampant and
-          has been widely covered:
+          murdered on the islands in the Gulf of Thailand has been widely
+          covered:
         </h3>
       </div>
-      <div className="lg:w-[60%]">
+      <div className="lg:w-[60%] lg:pt-16">
         <div className="p-4 border-2 w-[95vw] mx-auto flex flex-col font-thin lg:w-[50vw]">
           <a
             href="https://www.aljazeera.com/news/2021/8/31/drug-suspects-murder-ignites-calls-for-police-reform-in-thailand"
@@ -40,8 +40,11 @@ const Section17 = () => {
             className="mb-2 cursor-pointer"
           >
             2) 21 Year Old Burmese Woman Raped by Senior Police Inside Koh Samui
-            Police Station (the same jail Ashley was held a few months prior) -
-            Jan 15, 2021
+            Police Station (
+            <span className="text-yellow-400">
+              the same jail Ashley was in!
+            </span>
+            ) - Jan 15, 2021
           </a>
           <a
             href="https://www.samuitimes.com/police-accused-of-corruption-extortion-and-kidnapping/"
@@ -69,8 +72,8 @@ const Section17 = () => {
           was not her. They told her they would help her if she signed.{' '}
         </h3>
 
-        <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          Then she got handed a death sentence anyway.
+        <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto underline underline-offset-4">
+          <b>Then she got handed a death sentence anyway</b>
         </h3>
       </div>
     </div>

@@ -2,7 +2,7 @@ const Section27 = () => {
   return (
     <div
       className=" bg-black text-white font-economica
-        xxs:h-[140vh]
+        xxs:h-[120vh]
         xs:h-[110vh]
         sm:text-lg sm:h-[125vh]
         md:text-2xl
@@ -12,7 +12,7 @@ const Section27 = () => {
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
           Other prisoners at the same prison however have been receiving letters
           from years, but for Ashley to receive letters in the mail has been
-          labeled a security threat as if she was working with ISIS.
+          labeled a security threat as if she was working with terrorists.
         </h3>
         <img
           src="./images/proof.png"
@@ -38,16 +38,15 @@ const Section27 = () => {
         />
 
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
-          Ashley Oosthuizen spends everyday alone in a Thai prison for a crime
-          she did not commit. All three of the men who are guilty of the crime
-          are currently free. Sergey still teaches at Panyadee School where he
-          helped import the drugs to. It really is almost too unbelievable to be
-          true, and yet it is.
+          Ashley Oosthuizen spends everyday alone in a Thai prison for a
+          victimless crime. Both of the men who are guilty of conducting the
+          real enterprise remain free - as they should. Sergey still teaches at
+          Panyadee School where he helped import the drugs to
         </h3>
 
         <h3 className="text-center p-2">
-          PLEASE - HELP ASHLEY by tweeting @elonmusk who is a fellow South
-          African and asking him to publicize her ongoing nightmare to the
+          PLEASE - HELP ASHLEY. One way is by tweeting @elonmusk who is a fellow
+          South African and asking him to publicize her ongoing nightmare to the
           world.
         </h3>
       </div>

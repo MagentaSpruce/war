@@ -2,7 +2,7 @@ const Section28 = () => {
   return (
     <div
       className=" bg-black text-white font-economica
-        xxs:h-[140vh]
+        xxs:h-[120vh]
         xs:h-[110vh]
         sm:text-lg sm:h-[125vh]
         md:text-2xl
@@ -48,7 +48,17 @@ const Section28 = () => {
         />
 
         <h3 className="text-center p-2">
-          PLEASE - HELP ASHLEY by tweeting @elonmusk her nightmare.
+          PLEASE - HELP ASHLEY by subscribing to Tristan Nettle's YouTube
+          channel at{' '}
+          <a
+            href="https://www.youtube.com/@TristanNettlesFreeAshley"
+            target="_b
+          "
+          >
+            <span className="underline underline-offset-4">
+              TristanNettlesFreeAshley
+            </span>
+          </a>
         </h3>
         <div className="flex justify-around">
           {/* <a href="https://www.gofundme.com/f/help-ashley-oosthuizen?member=17832103&sharetype=teams&utm_campaign=p_na+share-sheet&utm_medium=social&utm_source=whatsapp"

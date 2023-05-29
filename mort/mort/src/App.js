@@ -29,7 +29,12 @@ import {
   Section26,
   Section27,
   Section27b,
+  Section27c,
+  Section27d,
+  Section27e,
+  Section27f,
   Section28,
+  Section28b,
   Section29,
   Section30,
   Section31,
@@ -39,24 +44,23 @@ import {
 function App() {
   return (
     <div>
-      <h1>Tristan loves Ashley.</h1>
-      {/* <Missing />
+      <Missing />
       <Section2 />
       <Section3 />
       <Section4 />
       <Section5 />
-      <Section6 />
+      {/* <Section6 /> */}
       <Section7 />
       <Section8 />
       <Section9 />
       <Section10 />
-      <Section11 />
       <Section12 />
       <Section13 />
       <Section14 />
-      <Section15 />
       <Section15b />
+      <Section11 />
       <Section16 />
+      <Section15 />
       <Section17 />
       <Section18 />
       <Section19 />
@@ -65,15 +69,20 @@ function App() {
       <Section22 />
       <Section23 />
       <Section24 />
-      <Section25 />
-      <Section26 />
-      <Section27 />
-      <Section27b />
+      {/* <Section25 /> */}
+      {/* <Section26 /> */}
+      {/* <Section27 /> */}
+      {/* <Section27b /> */}
+      <Section27c />
+      <Section27d />
+      <Section27e />
+      <Section27f />
       <Section28 />
-      <Section31 />
+      <Section28b />
+      {/* <Section31 /> */}
       <Section29 />
       <Section30 />
-      <Section32 /> */}
+      <Section32 />
     </div>
   );
 }

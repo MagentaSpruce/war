@@ -1,23 +1,30 @@
 const Section12 = () => {
-    return(
-        <div className="bg-black text-white
-        xxs:h-[110vh] 
+  return (
+    <div
+      className="bg-slate-900 text-white
+        xxs:h-[85vh] 
         xs:h-[75vh]
         sm:text-lg sm:h-[75vh]
         md:text-2xl 
-        lg:h-[85vh] lg:text-xl">
+        lg:h-[100vh] lg:text-xl"
+    >
+      <h3
+        className="text-center p-2 font-economica
+lg:pb-4 md:w-[80%] md:mx-auto"
+      >
+        With Sergei in agreement to continue providing Bitcoin to Tristan while
+        he was attending medical school in Ukraine then Ashley took over
+        distribution back on Koh Samui.
+      </h3>
 
-<h3 className="text-center p-2 font-economica
-lg:pb-4 md:w-[80%] md:mx-auto">When the COVID restrictions continued and money became too tight, Tristan, who was attending medical school in the Ukraine, decided to ask Sergey if he would be willing to continue on as before. Sergey agreed.</h3>
+      <img
+        src="./images/ukraine.jpg"
+        alt="Sergey agreeing to restart business operations"
+        className="xxs:h-[55vh]   xxs:mx-auto border-2
+   lg:h-[80vh]"
+      />
+    </div>
+  );
+};
 
-<img src="./images/ukraine.jpg" alt="Sergey agreeing to restart business operations" 
-   className="xxs:h-[40vh]   xxs:mx-auto border-2
-   lg:h-[55vh]"
-/>
-
-
-</div>
-    )
-}
-
-export default Section12
+export default Section12;

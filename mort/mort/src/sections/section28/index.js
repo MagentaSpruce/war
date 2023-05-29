@@ -1,36 +1,69 @@
 const Section28 = () => {
-    return(
-        <div className=" bg-black text-white font-economica
-        xxs:h-[150vh]
+  return (
+    <div
+      className=" bg-slate-900 text-white font-economica
+        xxs:h-[140vh]
         xs:h-[130vh]
-        sm:text-lg sm:h-[150vh]
+        sm:text-lg sm:h-[115vh]
         md:text-2xl md:h-[115vh]
-        lg:flex lg:text-xl lg:p-4 lg:h-[100vh]">
+        lg:flex lg:text-xl lg:p-4 lg:h-[100vh]"
+    >
+      <div className="lg:pt-14 xl:tracking-wider lg:w-[80%] xl:pt-5">
+        <div className="flex flex-col">
+          <h3 className="text-center p-2 md:w-[90%] md:mx-auto">
+            After it became clear that no one wanted to report on a South
+            African, and almost all of the men Tristan started the war with had
+            been killed or injured, Tristan left Ukraine in September, 2022
+            after more then seven months in country. He had sent over 2,500
+            emails to over 160 journalists, media networks, and human rights
+            organizations.{' '}
+            <span className="text-red-500">Only five ever responded.</span>
+          </h3>
+        </div>
+        <h3 className="text-center p-2 md:w-[90%] md:mx-auto">
+          Tristan next went from Ukraine to Bali where he moved into a small
+          house in Sanur and finished the narrative non-fiction dealing with he
+          and Ashley's time in Thailand together.
+        </h3>
 
-<div className="lg:pt-14 xl:tracking-wider xl:w-[70%] xl:pt-5">
-<div className="flex flex-col">
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">Ashley is nothing more than a convienent victim for the Thai authorities, just like the two poor Burmese men from Koh Tao.</h3>
-<a href="https://time.com/3617617/thailand-koh-tao-murder-david-miller-hannah-witheridge-indictment/" className=" xxs:mx-auto xxs:pt-2 text-center underline underline-offset-2"
->Burmese Men Set Up to Take Fall for Double Murder</a>
-</div>
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">The truth is that Tristan Nettles and Sergey Rumyanstev imported drugs into Panyadee International School for well over two years, before Ashley even lived in Thailand.</h3>
+        <h3 className="text-center p-2 md:w-[90%] md:mx-auto">
+          Now in May, 2023 the websites are finished. The books are finished.
+          The social media has been started and is growing daily. From this
+          point on, it is a{' '}
+          <span className="tracking-widest font-mono text-indigo-400">
+            numbers game only
+          </span>
+          .
+        </h3>
+      </div>
 
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">The Thai authorities do not want the truth to get out and so Ashley is being locked away, unable to even receive books. The flower of her youth is dying.</h3>
-</div>
+      <div className="lg:pt-8">
+        <img
+          src="./images/prev1.png"
+          alt="Screenshot from the website for 'False Positive' the narrative non-fiction about Tristan and Ashley"
+          srcset=""
+          className="xxs:w-[90vw]  xxs:mx-auto xxs:pt-2"
+        />
 
-<div className="xl:-mt-6">
-<img src="./images/ashleyTeach.jpg" alt="Ashley teaching at Christmas time" srcset="" 
-  className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2"
-/>
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
+          The time has come to put everything together and make the world hear
+          <span className="text-yellow-400"> Ashley Oosthuizen</span>.
+        </h3>
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto uppercase text-red-600 font-bold">
+          This is not going to go away.
+        </h3>
 
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">Ashley's only dream in life was to become a mother. The reason? She said it was because she had so much love to give.</h3>
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
+          Brittney Griner has shown us what the power of publicity and support
+          can do while Ashley continues to have the flower of her youth stripped
+          away for a victimless crime.{' '}
+        </h3>
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto uppercase text-amber-500 font-bold">
+          Ashley <span className="text-green-500">must</span> be set free{' '}
+        </h3>
+      </div>
+    </div>
+  );
+};
 
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">Now without your help she may never have any children at all.</h3>
-
-<h3 className="text-center p-2 md:w-[80%] md:mx-auto">Ashley doesn't deserve this. She did not hurt, maim, or kill anybody and yet she has been treated like a leperous monster while the real monsters go free on bail. </h3>
-</div>
-</div>
-    )
-}
-
-export default Section28
+export default Section28;

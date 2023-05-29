@@ -2,7 +2,7 @@ const Section26 = () => {
   return (
     <div
       className=" bg-black text-white font-economica
-        xxs:h-[160vh]
+        xxs:h-[155vh]
         xs:h-[145vh]
         sm:text-lg sm:h-[165vh]
         md:text-2xl md:h-[135vh]
@@ -17,20 +17,20 @@ const Section26 = () => {
         />
 
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto md:text-base">
-          If Ashley's appeal fails, the next thirty years or more of her life
-          will be spent inside of a Thai prison for a crime she did not commit.
+          Right now the next thirty years or more of her life will be spent
+          inside of a Thai prison for bringing the Love Drug to consenting and
+          free-seeking adults.
         </h3>
 
         <div className="flex flex-col">
           <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
             {' '}
             Meanwhile actual proven rapist and murderers with decades of
-            experience and knowledge of the law are allowed out on bail or
-            otherwise given lenient sentences.
+            experience and knowledge of the law are allowed out on bail.
           </h3>
           <a
             href="https://coconuts.co/bangkok/news/koh-samui-cop-accused-of-raping-burmese-woman-freed-on-bail/"
-            className="underline underline-offset-2 text-center"
+            className="underline underline-offset-4 text-center"
           >
             Koh Samui Police Chief Filmed Raping Prisoner Given Bail the Next
             Day
