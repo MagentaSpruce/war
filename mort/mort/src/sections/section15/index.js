@@ -2,8 +2,8 @@ const Section15 = () => {
   return (
     <div
       className="bg-slate-700 text-white
-        xxs:h-[125vh] 
-        xs:h-[115vh]
+        xxs:h-[115vh] 
+        xs:h-[88vh]
         sm:text-lg sm:h-[110vh]
         md:text-2xl md:h-[95vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh] "
@@ -43,7 +43,7 @@ const Section15 = () => {
           src="./images/hendrix.avif"
           alt="Jimi Hendrix Bar, Chaweng, Koh Samui, Thailand"
           srcset=""
-          className="xxs:h-[40vh]  xxs:mx-auto xxs:pt-2 
+          className="xxs:w-[90vw] md:h-[40vh]  xxs:mx-auto xxs:pt-2 
   lg:w-[100vw]"
         />
       </div>

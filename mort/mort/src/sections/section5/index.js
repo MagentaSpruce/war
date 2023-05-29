@@ -2,8 +2,8 @@ const Section5 = () => {
   return (
     <div
       className="bg-black text-white
-        xxs:h-[205vh]
-        xs:h-[195vh]
+        xxs:h-[195vh]
+        xs:h-[170vh]
         sm:text-lg sm:h-[185vh]
         md:text-2xl md:h-[170vh]
         lg:h-[100vh] lg:flex lg:text-xl"
@@ -30,7 +30,7 @@ const Section5 = () => {
         <img
           src="./images/drugsmin.jpg"
           alt="Part of a dark web order from NamasteLSD"
-          className="xxs:h-[40vh]   xxs:mx-auto 
+          className="xxs:w-[90vw] md:h-[40vh]  xxs:mx-auto 
    lg:h-[30vh]"
         />
 

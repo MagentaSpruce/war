@@ -2,8 +2,8 @@ const Section27f = () => {
   return (
     <div
       className="bg-slate-700 text-white
-        xxs:h-[175vh] 
-        xs:h-[165vh]
+        xxs:h-[165vh] 
+        xs:h-[119vh]
         sm:text-lg sm:h-[140vh]
         md:text-2xl md:h-[100vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]

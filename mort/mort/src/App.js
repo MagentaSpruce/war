@@ -43,7 +43,10 @@ import {
 
 function App() {
   return (
-    <div>
+    <div
+      className="max-w-[1280px] mx-auto
+    "
+    >
       <Missing />
       <Section2 />
       <Section3 />

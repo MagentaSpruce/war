@@ -2,8 +2,8 @@ const Section16 = () => {
   return (
     <div
       className=" bg-slate-800 text-white
-        xxs:h-[195vh]
-        xs:h-[185vh]
+        xxs:h-[188vh]
+        xs:h-[150vh]
         sm:text-lg sm:h-[160vh]
         md:text-2xl md:h-[220vh]
         lg:text-xl lg:h-[100vh] lg:p-4 lg:flex"

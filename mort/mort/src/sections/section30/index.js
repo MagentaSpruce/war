@@ -2,8 +2,8 @@ const Section30 = () => {
   return (
     <div
       className=" bg-black text-white font-economica
-        xxs:h-[90vh]
-        xs:h-[80vh]
+        xxs:h-[80vh]
+        xs:h-[65vh]
         sm:text-lg sm:h-[70vh]
         md:text-2xl md:h-[60vh]
         lg:h-[80vh] "
