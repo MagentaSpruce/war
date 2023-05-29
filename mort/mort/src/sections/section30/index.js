@@ -2,9 +2,9 @@ const Section30 = () => {
   return (
     <div
       className=" bg-black text-white font-economica
-        xxs:h-[80vh]
-        xs:h-[75vh]
-        sm:text-lg sm:h-[80vh]
+        xxs:h-[90vh]
+        xs:h-[85vh]
+        sm:text-lg sm:h-[90vh]
         md:text-2xl md:h-[60vh]
         lg:h-[80vh] "
     >

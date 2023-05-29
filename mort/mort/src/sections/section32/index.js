@@ -2,9 +2,9 @@ const Section32 = () => {
   return (
     <div
       className=" bg-slate-900 text-white font-economica
-        xxs:h-[130vh]
-        xs:h-[110vh]
-        sm:text-lg sm:h-[135vh]
+        xxs:h-[140vh]
+        xs:h-[120vh]
+        sm:text-lg sm:h-[145vh]
         md:text-2xl md:h-[125vh]
         lg:text-lg lg:p-4 lg:h-[105vh]"
     >

@@ -2,9 +2,9 @@ const Section16 = () => {
   return (
     <div
       className=" bg-slate-800 text-white
-        xxs:h-[188vh]
-        xs:h-[160vh]
-        sm:text-lg sm:h-[170vh]
+        xxs:h-[198vh]
+        xs:h-[170vh]
+        sm:text-lg sm:h-[195vh]
         md:text-2xl md:h-[220vh]
         lg:text-xl lg:h-[100vh] lg:p-4 lg:flex"
     >

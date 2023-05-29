@@ -2,9 +2,9 @@ const Section4 = () => {
   return (
     <div
       className="bg-slate-700 text-white
-        xxs:h-[130vh]
-        xs:h-[130vh]
-        sm:text-lg sm:h-[135vh]
+        xxs:h-[140vh]
+        xs:h-[140vh]
+        sm:text-lg sm:h-[145vh]
         md:text-2xl md:h-[130vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]
         "
