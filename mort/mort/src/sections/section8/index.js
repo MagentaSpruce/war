@@ -21,7 +21,7 @@ xl:w-[80%] xl:mx-auto md:w-[80%] md:mx-auto"
           src="./images/partyAtLukes.jpg"
           alt="Tristan supplying a villa party in Chaweng Noi"
           srcset=""
-          className="xxs:w-[90vw]  xxs:mx-auto border-2
+          className="xxs:w-[90vw] md:w-[50vw] xxs:mx-auto border-2
   lg:h-[80vh]"
         />
       </div>

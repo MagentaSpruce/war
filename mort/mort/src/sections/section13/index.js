@@ -6,7 +6,7 @@ const Section13 = () => {
         xs:h-[540vh]
         sm:text-lg sm:h-[535vh]
         md:text-2xl md:h-[115vh]
-        lg:h-[100vh] lg:text-xl lg:p-4 "
+        lg:h-[120vh] lg:text-xl lg:p-4 "
     >
       <div className="">
         <div className="lg:flex  lg:justify-center ">
@@ -36,32 +36,32 @@ const Section13 = () => {
         <img
           src="./images/yus1.jpg"
           alt="1st message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
         <img
           src="./images/yus2.jpg"
           alt="2nd message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
         <img
           src="./images/yus3.jpg"
           alt="3rd message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
         <img
           src="./images/yus4.jpg"
           alt="4th message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
         <img
           src="./images/yus5.jpg"
           alt="5th message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
         <img
           src="./images/yus6.jpg"
           alt="6th message between Yusri and Tristan about the 50 g MDMA found at Panyadee after Tristan left the country."
-          className="xxs:h-[70vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
+          className="xxs:h-[70vh] md:h-[60vh] xxs:mb-2 md:mb-0  xxs:mx-auto border-2 lg:mx-1"
         />
       </div>
     </div>

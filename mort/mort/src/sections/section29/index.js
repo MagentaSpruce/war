@@ -6,7 +6,7 @@ const Section29 = () => {
         xs:h-[150vh] 
         sm:text-lg sm:h-[130vh]
         md:text-2xl
-        lg:text-xl lg:p-4 lg:h-[100vh] lg:flex"
+        lg:text-xl lg:p-4 lg:h-[110vh] lg:flex"
     >
       <div className="">
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
@@ -45,7 +45,7 @@ const Section29 = () => {
 
         <h3 className="text-center   p-2 md:w-[80%] md:mx-auto ">
           Join the YouTube channel in support of Ashley here:{' '}
-          <button className="hover:scale-105 transition-all active:scale-100 block mx-auto xxs:mt-2 md:mt-0">
+          <button className="hover:scale-105 transition-all active:scale-100 block mx-auto xxs:mt-2 ">
             {' '}
             <a
               href="https://www.youtube.com/@TristanNettlesFreeAshley"
@@ -59,7 +59,7 @@ const Section29 = () => {
         </h3>
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
           Join the Twitter account in support of Ashley here:{' '}
-          <button className="hover:scale-110 transition-all active:scale-100 block mx-auto xxs:mt-2 md:mt-0">
+          <button className="hover:scale-110 transition-all active:scale-100 block mx-auto xxs:mt-2">
             {' '}
             <a
               href="https://twitter.com/tristan_nettles"

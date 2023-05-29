@@ -9,7 +9,7 @@ const Section30 = () => {
         lg:h-[80vh] "
     >
       <div className="xl:w-[90vw] xl:mx-auto">
-        <h3 className="text-center p-2">
+        <h3 className="text-center p-2 lg:pt-4">
           Media/Legal/Journalist queries please contact Ashley's mother Lynette
           Blignaut @ +27 83 458 9076 or her father Andre Dupree @ +27 83 442
           9968.

@@ -42,7 +42,7 @@ const Section14 = () => {
         <img
           src="./images/liam1.jpg"
           alt="Liam admitting he reported the 50 g MDMA found at Panyadee to the Bophut Police Department."
-          className="xxs:w-[60vw]   xxs:mx-auto "
+          className="xxs:w-[60vw] md:w-[20vw]  xxs:mx-auto "
         />
       </div>
     </div>

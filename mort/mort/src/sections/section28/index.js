@@ -42,7 +42,7 @@ const Section28 = () => {
           src="./images/prev1.png"
           alt="Screenshot from the website for 'False Positive' the narrative non-fiction about Tristan and Ashley"
           srcset=""
-          className="xxs:w-[90vw]  xxs:mx-auto xxs:pt-2"
+          className="xxs:w-[90vw] md:w-[45vw]  xxs:mx-auto xxs:pt-2"
         />
 
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
