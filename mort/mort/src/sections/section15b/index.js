@@ -3,8 +3,8 @@ const Section15b = () => {
     <div
       className="bg-black text-white
         xxs:h-[167vh] 
-        xs:h-[158vh]
-        sm:text-lg sm:h-[160vh]
+        xs:h-[168vh]
+        sm:text-lg sm:h-[170vh]
         md:text-2xl md:h-[120vh]
         lg:text-xl lg:flex lg:p-4 lg:h-[100vh]
         "

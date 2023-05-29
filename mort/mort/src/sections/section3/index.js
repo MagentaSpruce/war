@@ -3,8 +3,8 @@ const Section3 = () => {
     <div
       className=" bg-slate-800 text-white
         xxs:h-[180vh]
-        xs:h-[140vh]
-        sm:text-lg sm:h-[145vh]
+        xs:h-[150vh]
+        sm:text-lg sm:h-[155vh]
         md:text-2xl md:h-[145vh]
         lg:flex lg:p-4 lg:text-xl lg:h-[100vh]"
     >
@@ -12,7 +12,7 @@ const Section3 = () => {
         <h1 className="text-center  p-2 font-economica md:w-[90%] md:mx-auto">
           By the time Tristan met Ashley at a Halloween party in 2018 many
           people knew that he was dealing, including Ashley. That was part of
-          the charm.
+          his charm.
         </h1>
         <img
           src="./images/ashley&meJimi.jpg"

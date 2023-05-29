@@ -3,8 +3,8 @@ const Missing = () => {
     <div
       className=" bg-black text-white
         xxs:h-[190vh]
-        xs:h-[155vh]
-        sm:h-[155vh] sm:text-lg
+        xs:h-[165vh]
+        sm:h-[165vh] sm:text-lg
         md:text-2xl md:h-[170vh]
         lg:flex lg:p-4 lg:h-[100vh]
         "

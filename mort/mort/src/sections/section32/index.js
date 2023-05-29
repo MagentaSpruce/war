@@ -3,8 +3,8 @@ const Section32 = () => {
     <div
       className=" bg-slate-900 text-white font-economica
         xxs:h-[130vh]
-        xs:h-[100vh]
-        sm:text-lg sm:h-[125vh]
+        xs:h-[110vh]
+        sm:text-lg sm:h-[135vh]
         md:text-2xl md:h-[125vh]
         lg:text-lg lg:p-4 lg:h-[105vh]"
     >

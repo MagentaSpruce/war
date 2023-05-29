@@ -3,8 +3,8 @@ const Section30 = () => {
     <div
       className=" bg-black text-white font-economica
         xxs:h-[80vh]
-        xs:h-[65vh]
-        sm:text-lg sm:h-[70vh]
+        xs:h-[75vh]
+        sm:text-lg sm:h-[80vh]
         md:text-2xl md:h-[60vh]
         lg:h-[80vh] "
     >

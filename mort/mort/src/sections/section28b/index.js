@@ -3,8 +3,8 @@ const Section28b = () => {
     <div
       className="bg-slate-800 text-white font-economica
         xxs:h-[145vh] 
-        xs:h-[105vh] 
-        sm:text-lg sm:h-[120vh]
+        xs:h-[115vh] 
+        sm:text-lg sm:h-[130vh]
         md:text-2xl
         lg:text-xl lg:p-4 lg:h-[100vh] lg:flex"
     >
@@ -25,7 +25,7 @@ const Section28b = () => {
           sight.{' '}
           <b>
             Thus it no longer serves any useful purpose to continue playing the
-            monster .
+            monster.
           </b>
         </h3>
 
