@@ -26,22 +26,6 @@ className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 
 >DONATE NOW</a>
 </div> */}
 
-        <div className="md:flex md:flex-col xxs:text-center items-center">
-          <h3 className="text-center p-2 xl:mb-4 text-yellow-500">
-            Please consider purchasing a copy of 'The Shepherd - A Bronze Age
-            Tale on pre-release now.' 100% of all author profits will go to
-            Ashley's legal fund.
-          </h3>
-          <a
-            href="https://www.theshepherdnovel.com"
-            className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 mb-4 "
-            target="_blank"
-            rel="noreferrer"
-          >
-            Book for Ashley
-          </a>
-        </div>
-
         {/* <div className="flex flex-col">
 <h3 className="text-center p-2">Please consider becoming a subscribing member to Ashley Capital & DeFi, a crypto consulting and wealth management company that is being started in her name and honor. 95% of all profits made will go to her legal fund.</h3>
 

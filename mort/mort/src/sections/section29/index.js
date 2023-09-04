@@ -9,39 +9,31 @@ const Section29 = () => {
         lg:text-xl lg:p-4 lg:h-[110vh] lg:flex"
     >
       <div className="">
-        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
-          Dear reader, before you leave, please understand what is being done
-          and how can you directly make a difference.
-        </h3>
-        <h3 className="text-center p-2 md:w-[80%] md:mx-auto font-bold">
-          Tristan Nettles is going to utilize the websites, social media, books,
-          and everything else done thus far in order to create a following that
-          becomes large enough to provide both the resources and publicity to
-          force the Thai side to the negotiating table. The objectives are to
-          create as large a base of support and resources as possible for Ashley
-          while simultaneously eroding Thailand's support on the world stage and
-          in so doing affect their tourist based economy in a negative manner.
-        </h3>
-        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
-          Brittney Griner has shown us what is possible and Thailand cares and
-          depends much more on its global image than Russia does. Please tweet
-          <span className="text-green-400"> @elonmusk</span> and ask him to
-          publicize her nightmare as well. Ashley only needs one influencer, one
-          celebrity, or government official willing to help take up her cause to
-          the world so that this travesty of justice can be undone.
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto ">
+          <strong>
+            Please now, for Ashley and all of the great many people who still
+            both miss and love her so very much, help make a difference in this
+            fight.
+          </strong>
         </h3>
 
-        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
-          Please consider sending a donation to support Ashley's prison upkeep
-          and legal fight. She has a fund set up and controlled by her mother
-          at:{' '}
-          <b>
-            Hearts4Ashley, NPC FNB, Garden Route Mall, Business Account #629
-            3970 9020, Branch Code: 250069, Swift Code: FIRNAJJ
-          </b>
-          . International donors can also send funds via PayPal using
-          <b> Hearts4Ashley</b>.
-        </h3>
+        <div className="md:flex md:flex-col xxs:text-center items-center">
+          <h3 className="text-center p-2 xl:mb-4 text-yellow-500 max-w-[90vw]">
+            Please purchase a copy of 'The Shepherd - A Bronze Age Tale,' on
+            pre-release now. 100% of all author profits will go to Ashley's
+            mother's legal fund and with enough books sold Ashley's mother will
+            gain all the resources and publicity needed to regain her daughter's
+            freedom.
+          </h3>
+          <a
+            href="https://www.theshepherdnovel.com"
+            className="text-center text-3xl bg-yellow-500 px-2 py-1 rounded-lg text-sky-900 hover:scale-110 transition-all active:scale-100 mb-4 "
+            target="_blank"
+            rel="noreferrer"
+          >
+            Book for Ashley
+          </a>
+        </div>
 
         <h3 className="text-center   p-2 md:w-[80%] md:mx-auto ">
           Join the YouTube channel in support of Ashley here:{' '}
@@ -70,6 +62,17 @@ const Section29 = () => {
               Twitter
             </a>
           </button>
+        </h3>
+        <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
+          If you wish to go further then please consider sending a direct
+          donation to support Ashley's prison upkeep and legal fight. She has a
+          fund set up and controlled by her mother at:{' '}
+          <b>
+            Hearts4Ashley, NPC FNB, Garden Route Mall, Business Account #629
+            3970 9020, Branch Code: 250069, Swift Code: FIRNAJJ
+          </b>
+          . International donors can also send funds via PayPal using
+          <b> Hearts4Ashley</b>.
         </h3>
         {/* 
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">

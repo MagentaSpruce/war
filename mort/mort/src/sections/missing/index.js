@@ -30,8 +30,8 @@ const Missing = () => {
       </div>
       <div className="">
         <h3 className="text-center p-2 font-economica">
-          She was arrested by the Bophut Police Department after signing her
-          name on a package containing MDMA.
+          She was arrested on the island of Koh Samui after being set up to take
+          the fall for the man she loved.
         </h3>
         <img
           src="./images/ashleyDrugsHITB1.jpg"

@@ -10,7 +10,7 @@ const Section16 = () => {
     >
       <div className="lg:w-[60%] lg:tracking-widest xl:pt-24">
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          Following the setup Ashley was then taken to a government black house
+          Following this setup Ashley was then taken to a government black house
           where she was interrogated without a lawyer or interpreter present.
           She was forced to sign documents that were written in Thai against her
           will under threat of rape and death. A far too common occurence for
@@ -21,7 +21,7 @@ const Section16 = () => {
           Ashley was only 21 years old at this time. She had never been in
           trouble with the police before in her life and was now all alone in an
           unmarked location surrounded by 15 men threatening her with bodily
-          harm or worse if she did not cooperate.
+          harm or worse if she did not do what they wanted.
         </h3>
       </div>
       <div className="lg:pl-10 lg:0">

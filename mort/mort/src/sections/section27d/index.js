@@ -10,26 +10,22 @@ const Section27d = () => {
     >
       <div className="lg:text-lg lg:pt-14">
         <h3 className="text-center p-2 font-economica md:w-[90%] md:mx-auto">
-          During the fifteen months following Ashley's arrest Tristan sold
-          everything to continue sending Ashley money in prison each month. He
-          continues to do so.
+          During the fifteen months immediately following Ashley's arrest
+          Tristan resigned medical school and sold everything that he owned to
+          provide Ashley with lawyers and continue sending her funds in prison
+          each month, a practice which he continues to do.
         </h3>
 
         <h3 className="text-center p-2 font-economica md:w-[90%] md:mx-auto">
-          He also gained the time and resources to devote to studying seven days
-          a week, 12 to 14 hours each day so that he could learn how to code in
-          order to make this and other websites to bring Ashley's nightmare to
-          the world's attention. Before the websites Ashley was almost unheard
-          of.
+          He also taught himself how to code in order to make this and other
+          websites to bring Ashley's nightmare to the world's attention.
         </h3>
 
         <h3 className="text-center p-2 font-economica lg:text-lg md:w-[90%] md:mx-auto">
           {' '}
           In addition to coding Tristan began writing and then finished an
           original novel dedicated to Ashley and which is currently on
-          pre-release now. It was accepted on merit alone by a traditional
-          publisher and has since turned into a growing humanitarian effort
-          thanks to the publishing house,{' '}
+          pre-release now thanks to the publishing house,{' '}
           <span className="text-amber-500">Histria Books</span>.
         </h3>
 
@@ -43,10 +39,11 @@ const Section27d = () => {
 
       <div className="xl:tracking-widest">
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          The purpose of this first novel, which will be published March 12,
-          2024, is to raise enough resources and publicity for Ashley Oosthuizen
-          to get her voice heard on the world stage. This will allow for
-          alternate outcomes than the present one to be arranged.
+          The purpose of this novel, which will be published March 12, 2024, is
+          to raise enough resources and publicity for Ashley Oosthuizen to
+          finally get her voice heard on the world stage. This will allow for
+          alternate outcomes than her current ongoing life sentence to be
+          arranged.
         </h3>
 
         <a

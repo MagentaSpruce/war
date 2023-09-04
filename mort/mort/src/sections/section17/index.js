@@ -73,7 +73,7 @@ const Section17 = () => {
         </h3>
 
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto underline underline-offset-4">
-          <b>Then she got handed a death sentence anyway</b>
+          <b>Then she got handed a life sentence anyway</b>
         </h3>
       </div>
     </div>

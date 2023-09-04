@@ -8,16 +8,20 @@ const Section32 = () => {
         md:text-2xl md:h-[125vh]
         lg:text-lg lg:p-4 lg:h-[105vh]"
     >
-      <h3 className="text-center p-2">
-        Join our fight! Ashley is only 24 years old. Right now as you read these
-        words she languishes in a Thai prison cell for a victimless crime. She
-        has hardly been seen by anyone for over three years. She does not
-        deserve this.
+      <h3 className="text-center p-2 max-w-[90vw] mx-auto">
+        Join our fight today! Ashley Oosthuizen is only 24 years old. Right now
+        as you read these words she languishes in a Thai prison cell miserable
+        and alone with more than three decades left on her current sentence. She
+        has hardly been seen by anyone for over three years. It is in no one's
+        best interest that she continues to suffer through such wretched
+        circumstances like this.
       </h3>
 
       <h3 className="text-center p-2">
-        Please join our army as we fight to free Ashley Oosthuizen and educate
-        the world on the truth about designer drugs.
+        Please join in with our growing army right now as we fight to{' '}
+        <strong>
+          free Ashley Oosthuizen from her life sentence in Thai prison!
+        </strong>
       </h3>
       <img
         src="./images/Ashley5.jpg"
@@ -27,14 +31,9 @@ const Section32 = () => {
       />
 
       <h3 className="text-center p-2 lg:pt-10">
-        <em>Mort omnibus tyrannis.</em>
         <br />
         <br />
-        MDMA, LSD, Ketamine and marijuana are gifts to mankind - only the
-        ignorant, enslaved, corrupt, or tyrannical would seek to strip away the
-        freedom and liberty of other human beings for these substances,
-        especially while tobbacco, alcohol, and pharmaceuticals are imported in
-        by the shipload. WAKE UP!!! The future is now. #FreeAshley
+        #FreeAshley
         {/* <a
           className="underline underline-offset-4"
           href="https://www.bendingbars.org/"
@@ -63,7 +62,7 @@ xxs:text-sm md:text-base
         className="text-center text-5xl text-yellow-500 xxs:pt-5 xs:pt-14
 lg:pt-1"
       >
-        FREE ASHLEY
+        FREE ASHLEY!
       </h1>
     </div>
   );
