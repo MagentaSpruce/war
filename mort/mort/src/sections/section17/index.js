@@ -10,8 +10,7 @@ const Section17 = () => {
     >
       <div className="">
         <h1 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          Ashley has been incarcerated since October 8, 2020 in Thai prison. She
-          did not speak Thai.
+          Ashley has been incarcerated since October 8, 2020 in Thai prison.
         </h1>
         <img
           src="./images/love.jpg"

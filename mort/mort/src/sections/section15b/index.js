@@ -11,13 +11,10 @@ const Section15b = () => {
     >
       <div className="lg:w-[60%]">
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          On October 8th, 2020 in the late morning a package arrived to Ashley's
-          place of work, a restaurant owned by Tristan. It was during a busy
-          shift that a police sent package man arrived and ordered for her to
-          sign for a package despite knowing that she was not the man to whom it
-          was addressed to. Ashley was forced into complying before then placing
-          the package in the back on the ground, unopened, and going back to
-          work as before.{' '}
+          On October 8th, 2020 a package arrived to Ashley's place of work, a
+          restaurant owned by Tristan. During a busy shift a police sent package
+          man arrived and ordered for her to sign for a package despite knowing
+          that she was not the man to whom it was addressed to.{' '}
         </h3>
 
         <h3 className="text-center p-2 font-economica">

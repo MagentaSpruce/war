@@ -34,11 +34,11 @@ const Missing = () => {
           the fall for the man she loved.
         </h3>
         <img
-          src="./images/ashleyDrugsHITB1.jpg"
+          src="./images/ashnme.jpg"
           alt="Police documents showing photos of the MDMA Ashley was charged with receiving."
           className="xxs:w-[90vw]  xxs:mx-auto  border-2 
-   lg:w-[20vw]
-   xl:w-[20vw]"
+   lg:w-[40vw]
+   xl:w-[50vw]"
         />
       </div>
     </div>

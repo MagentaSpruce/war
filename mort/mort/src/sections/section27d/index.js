@@ -8,32 +8,21 @@ const Section27d = () => {
         md:text-2xl md:h-[130vh]
         lg:text-xl lg:flex lg:p-0 lg:h-[100vh]"
     >
-      <div className="lg:text-lg lg:pt-14">
+      <div className="lg:text-xl lg:pt-24">
         <h3 className="text-center p-2 font-economica md:w-[90%] md:mx-auto">
           During the fifteen months immediately following Ashley's arrest
-          Tristan resigned medical school and sold everything that he owned to
-          provide Ashley with lawyers and continue sending her funds in prison
-          each month, a practice which he continues to do.
-        </h3>
-
-        <h3 className="text-center p-2 font-economica md:w-[90%] md:mx-auto">
-          He also taught himself how to code in order to make this and other
-          websites to bring Ashley's nightmare to the world's attention.
+          Tristan resigned medical school and taught himself how to code in
+          order to make this and other websites to bring Ashley's nightmare to
+          the world's attention.
         </h3>
 
         <h3 className="text-center p-2 font-economica lg:text-lg md:w-[90%] md:mx-auto">
           {' '}
-          In addition to coding Tristan began writing and then finished an
-          original novel dedicated to Ashley and which is currently on
-          pre-release now thanks to the publishing house,{' '}
-          <span className="text-amber-500">Histria Books</span>.
-        </h3>
-
-        <h3 className="text-center p-2 font-economica lg:text-lg md:w-[90%] md:mx-auto">
-          100% of the author profits from her novel will go directly to Ashley's
-          donation fund, Hearts4Ashley, which is under the direct control of
-          Ashley's mother, Lynn Blignaut, to be used in Ashley's ongoing
-          struggle.
+          In addition to coding he began writing and then finished an original
+          novel dedicated to Ashley. 100% of the author profits from her novel
+          will go directly to Ashley's donation fund, Hearts4Ashley, which is
+          under the direct control of Ashley's mother, Lynn Blignaut, to be used
+          in Ashley's ongoing struggle.
         </h3>
       </div>
 
@@ -41,8 +30,8 @@ const Section27d = () => {
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
           The purpose of this novel, which will be published March 12, 2024, is
           to raise enough resources and publicity for Ashley Oosthuizen to
-          finally get her voice heard on the world stage. This will allow for
-          alternate outcomes than her current ongoing life sentence to be
+          finally get her voice heard on the world stage. This will then allow
+          for alternate outcomes than her current ongoing life sentence to be
           arranged.
         </h3>
 

@@ -12,18 +12,18 @@ const Section29 = () => {
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto ">
           <strong>
             Please now, for Ashley and all of the great many people who still
-            both miss and love her so very much, help make a difference in this
-            fight.
+            both miss and love her so very much, help us to make a difference in
+            this fight.
           </strong>
         </h3>
 
         <div className="md:flex md:flex-col xxs:text-center items-center">
           <h3 className="text-center p-2 xl:mb-4 text-yellow-500 max-w-[90vw]">
             Please purchase a copy of 'The Shepherd - A Bronze Age Tale,' on
-            pre-release now. 100% of all author profits will go to Ashley's
-            mother's legal fund and with enough books sold Ashley's mother will
-            gain all the resources and publicity needed to regain her daughter's
-            freedom.
+            pre-release now. 100% of all author profits will go directly to
+            Ashley's mother's legal fund. With enough books sold Ashley's mother
+            will gain all the resources and publicity needed to regain her
+            daughter's freedom.
           </h3>
           <a
             href="https://www.theshepherdnovel.com"
@@ -64,7 +64,7 @@ const Section29 = () => {
           </button>
         </h3>
         <h3 className="text-center p-2 md:w-[80%] md:mx-auto">
-          If you wish to go further then please consider sending a direct
+          If you wish to go even further then please consider sending a direct
           donation to support Ashley's prison upkeep and legal fight. She has a
           fund set up and controlled by her mother at:{' '}
           <b>

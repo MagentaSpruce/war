@@ -38,8 +38,7 @@ const Section2 = () => {
         />
         <h3 className="text-center p-2 font-economica md:w-[90%] md:mx-auto">
           Hundreds of packages were sent into the school before Ashley
-          Oosthuizen ever lived in Thailand. The local police department has
-          worked hard to continue to cover this up.
+          Oosthuizen ever lived in Thailand.
         </h3>
       </div>
     </div>

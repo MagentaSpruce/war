@@ -8,19 +8,18 @@ const Section27e = () => {
         md:text-2xl
         lg:text-xl lg:p-4 lg:h-[100vh] lg:flex lg:justify-center"
     >
-      <div className="lg:w-[50%] lg:mt-14">
+      <div className="lg:w-[50%] lg:mt-24">
         <h3 className="text-center p-2 md:w-[90%] md:mx-auto">
           Once Tristan finished building the websites and writing the novel back
-          in February 2022, he then continued to go to war for Ashley.
-          Literally.
+          in February 2022, he then went to war for Ashley.
         </h3>
 
         <h3 className="text-center p-2 md:w-[90%] md:mx-auto">
-          At that time Tristan left everything behind and went to volunteer with
-          the Ukrainian Foreign Legion in their newly started war against the
+          Tristan left everything behind and went to volunteer with the
+          Ukrainian Foreign Legion in their newly started war against the
           Russians. The reason that Tristan went to war in Ukraine was because
           he believed that by helping to fight for other people's freedom, that
-          other people would then help him to fight for Ashley's.
+          other people would now help him to fight for Ashley's.
         </h3>
 
         <h3 className="text-center p-2 md:w-[90%] md:mx-auto">

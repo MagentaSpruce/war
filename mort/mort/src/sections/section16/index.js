@@ -10,11 +10,11 @@ const Section16 = () => {
     >
       <div className="lg:w-[60%] lg:tracking-widest xl:pt-24">
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
-          Following this setup Ashley was then taken to a government black house
+          Following her setup Ashley was then taken to a government black house
           where she was interrogated without a lawyer or interpreter present.
-          She was forced to sign documents that were written in Thai against her
-          will under threat of rape and death. A far too common occurence for
-          suspects in Thai police custody, as shown further below.
+          She was forced to sign documents that were written in all Thai against
+          her will under threat of rape and death. A far too common occurence
+          for suspects in Thai police custody, as shown further below.
         </h3>
 
         <h3 className="text-center p-2 font-economica md:w-[80%] md:mx-auto">
