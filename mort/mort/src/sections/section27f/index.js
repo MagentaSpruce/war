@@ -4,7 +4,7 @@ const Section27f = () => {
       className="bg-slate-700 text-white
         xxs:h-[175vh] 
         xs:h-[139vh]
-        sm:text-lg sm:h-[170vh]
+        sm:text-lg sm:h-[130vh]
         md:text-2xl md:h-[100vh]
         lg:text-xl lg:p-4 lg:flex lg:h-[100vh]
         "
